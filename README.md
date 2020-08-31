@@ -1,8 +1,11 @@
 ### Hey 👋, I'm FalcoSuessgott
 
+[![Github](https://img.shields.io/github/followers/FalcoSuessgott?label=Follow&style=social)](https://github.com/FalcoSuessgott)
+
 * DevOps
 * Linux
 * Go
+* Java
 * Python
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FalcoSuessgott&hide=html)
