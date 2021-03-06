@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-:) 
+Im Tom, DevOps Engineer in Berlin and interested in Linux, Go, Kubernetes and Open Source. 
+Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
