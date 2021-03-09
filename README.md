@@ -5,11 +5,11 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (3 days ago)
+- [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (4 days ago)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) - dotfiles for Ubuntu (18.04, 19.04, 20.04) (2 weeks ago)
 - [FalcoSuessgott/saml2-metadata-verifier](https://github.com/FalcoSuessgott/saml2-metadata-verifier) - Verify and lint SAML2.0 Metadata  (3 months ago)
 - [FalcoSuessgott/tago](https://github.com/FalcoSuessgott/tago) - interactively bumping SemVer git tags (3 months ago)
-- [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier. (3 months ago)
+- [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier. (4 months ago)
 
 #### 🌱 My latest projects
 
