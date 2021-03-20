@@ -6,8 +6,8 @@ Im based in Berlin/Germany.
 #### 👷 Check out what I'm currently working on
 
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way (1 week ago)
-- [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (1 week ago)
-- [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) - dotfiles for Ubuntu (18.04, 19.04, 20.04) (3 weeks ago)
+- [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (2 weeks ago)
+- [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) - dotfiles for Ubuntu (18.04, 19.04, 20.04) (4 weeks ago)
 - [FalcoSuessgott/saml2-metadata-verifier](https://github.com/FalcoSuessgott/saml2-metadata-verifier) - Verify and lint SAML2.0 Metadata  (3 months ago)
 - [FalcoSuessgott/tago](https://github.com/FalcoSuessgott/tago) - interactively bumping SemVer git tags (3 months ago)
 
