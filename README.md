@@ -9,7 +9,7 @@ Im based in Berlin/Germany.
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way (1 week ago)
 - [FalcoSuessgott/saml2-metadata-verifier](https://github.com/FalcoSuessgott/saml2-metadata-verifier) - Verify and lint SAML2.0 Metadata  (3 weeks ago)
 - [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (1 month ago)
-- [FalcoSuessgott/tago](https://github.com/FalcoSuessgott/tago) - interactively bumping SemVer git tags (4 months ago)
+- [FalcoSuessgott/tago](https://github.com/FalcoSuessgott/tago) - interactively bumping SemVer git tags (5 months ago)
 
 #### 🌱 My latest projects
 
