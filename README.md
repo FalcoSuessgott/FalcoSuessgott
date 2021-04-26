@@ -21,3 +21,4 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.0.1](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.0.1), today) - A general purpose  project template for golang CLI tools
