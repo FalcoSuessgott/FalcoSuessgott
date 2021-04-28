@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose  project template for golang CLI applications (1 day ago)
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose  project template for golang CLI applications (2 days ago)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) - dotfiles for Ubuntu (18.04, 19.04, 20.04) (2 weeks ago)
-- [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way (2 weeks ago)
+- [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way (3 weeks ago)
 - [FalcoSuessgott/saml2-metadata-verifier](https://github.com/FalcoSuessgott/saml2-metadata-verifier) - Verify and lint SAML2.0 Metadata  (1 month ago)
 - [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (1 month ago)
 
@@ -21,4 +21,4 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.0.2](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.0.2), 1 day ago) - A general purpose  project template for golang CLI applications
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.0.2](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.0.2), 2 days ago) - A general purpose  project template for golang CLI applications
