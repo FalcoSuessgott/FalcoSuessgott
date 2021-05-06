@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose project template for golang CLI applications for  Github and Gitlab (1 week ago)
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (today)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) - dotfiles for Ubuntu (18.04, 19.04, 20.04) (4 weeks ago)
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way (4 weeks ago)
 - [FalcoSuessgott/saml2-metadata-verifier](https://github.com/FalcoSuessgott/saml2-metadata-verifier) - Verify and lint SAML2.0 Metadata  (1 month ago)
@@ -13,7 +13,7 @@ Im based in Berlin/Germany.
 
 #### 🌱 My latest projects
 
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose project template for golang CLI applications for  Github and Gitlab
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab
 - [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work.
 - [FalcoSuessgott/saml2-metadata-verifier](https://github.com/FalcoSuessgott/saml2-metadata-verifier) - Verify and lint SAML2.0 Metadata 
 - [FalcoSuessgott/tago](https://github.com/FalcoSuessgott/tago) - interactively bumping SemVer git tags
@@ -21,4 +21,4 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.1.1](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.1.1), 1 week ago) - A general purpose project template for golang CLI applications for  Github and Gitlab
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.1.2](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.1.2), today) - A general purpose golang CLI  template for Github and Gitlab
