@@ -5,10 +5,10 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (1 day ago)
-- [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) - insert command output directly into your Markdow files! (2 days ago)
-- [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (5 days ago)
-- [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) - dotfiles for Ubuntu (18.04, 19.04, 20.04) (1 month ago)
+- [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (2 days ago)
+- [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) - insert command output directly into your Markdow files! (3 days ago)
+- [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (6 days ago)
+- [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) - dotfiles for Ubuntu (18.04, 19.04, 20.04) (2 months ago)
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern &amp; minimalistic load balancer for the Сloud era (2 months ago)
 
 #### 🌱 My latest projects
@@ -21,5 +21,5 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) ([v0.0.1](https://github.com/FalcoSuessgott/md/releases/tag/v0.0.1), 2 days ago) - insert command output directly into your Markdow files!
+- [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) ([v0.0.1](https://github.com/FalcoSuessgott/md/releases/tag/v0.0.1), 3 days ago) - insert command output directly into your Markdow files!
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.1.2](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.1.2), 2 months ago) - A general purpose golang CLI  template for Github and Gitlab
