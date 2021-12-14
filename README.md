@@ -31,13 +31,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.2), today) - recursively list secrets from Vaults KV2 engine
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.3](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.3), today) - recursively list secrets from Vaults KV2 engine
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 week ago) - 👀 A modern watch command. Time machine and pager etc.
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2021.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2021.12.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) ([v0.0.1](https://github.com/FalcoSuessgott/md/releases/tag/v0.0.1), 5 months ago) - insert command output directly into your Markdown files!
 
 #### 🔨 My recent Pull Requests
 
+- [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [vault api health check via the actual vault api address](https://github.com/ansible-community/ansible-vault/pull/267) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (5 days ago)
 - [Introduce transit auto unseal review](https://github.com/FalcoSuessgott/ansible-vault/pull/1) on [FalcoSuessgott/ansible-vault](https://github.com/FalcoSuessgott/ansible-vault) (6 days ago)
 - [vault testing](https://github.com/FalcoSuessgott/vkv/pull/3) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
@@ -47,7 +48,6 @@ Im based in Berlin/Germany.
 - [Fix enterprise install](https://github.com/ansible-community/ansible-vault/pull/257) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (1 month ago)
 - [add vault_raft_tls_servername option](https://github.com/ansible-community/ansible-vault/pull/255) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (1 month ago)
 - [introduce exec template func](https://github.com/terraform-docs/terraform-docs/pull/554) on [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) (3 months ago)
-- [golangci-lint, ci stages, makefile](https://github.com/sachaos/viddy/pull/13) on [sachaos/viddy](https://github.com/sachaos/viddy) (3 months ago)
 
 #### 📓 Gists I wrote
 
