@@ -56,6 +56,7 @@ Im based in Berlin/Germany.
 
 #### ⭐ Recent Stars
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (today)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (1 week ago)
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI (1 week ago)
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - go test output for humans (1 week ago)
@@ -65,7 +66,6 @@ Im based in Berlin/Germany.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (3 weeks ago)
 - [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry (3 weeks ago)
 - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data. (4 weeks ago)
-- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
