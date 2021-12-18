@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (1 day ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (today)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (1 week ago)
 - [FalcoSuessgott/dejavu](https://github.com/FalcoSuessgott/dejavu) - collection of useful snippets, commands and tips &amp; tricks for my daily work. (1 month ago)
 - [FalcoSuessgott/lint-gitlab-ci](https://github.com/FalcoSuessgott/lint-gitlab-ci) - pre-commit hook that vaildates gitlab-ci.yml (3 months ago)
@@ -38,6 +38,9 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [allow 5% failure for PRs](https://github.com/FalcoSuessgott/vkv/pull/13) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
+- [allow multiple paths](https://github.com/FalcoSuessgott/vkv/pull/12) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
+- [print secrets in separate line](https://github.com/FalcoSuessgott/vkv/pull/11) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [introduce cp package](https://github.com/FalcoSuessgott/vkv/pull/10) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [introduce goreleaser](https://github.com/yyyar/gobetween/pull/323) on [yyyar/gobetween](https://github.com/yyyar/gobetween) (1 day ago)
 - [add dependabot](https://github.com/FalcoSuessgott/vkv/pull/7) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
@@ -45,9 +48,6 @@ Im based in Berlin/Germany.
 - [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
 - [vault api health check via the actual vault api address](https://github.com/ansible-community/ansible-vault/pull/267) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (1 week ago)
 - [Introduce transit auto unseal review](https://github.com/FalcoSuessgott/ansible-vault/pull/1) on [FalcoSuessgott/ansible-vault](https://github.com/FalcoSuessgott/ansible-vault) (1 week ago)
-- [vault testing](https://github.com/FalcoSuessgott/vkv/pull/3) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
-- [update goreleaser](https://github.com/FalcoSuessgott/vkv/pull/2) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
-- [init code base](https://github.com/FalcoSuessgott/vkv/pull/1) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
