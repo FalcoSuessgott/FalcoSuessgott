@@ -38,6 +38,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [metadata flag](https://github.com/FalcoSuessgott/vkv/pull/14) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [allow 5% failure for PRs](https://github.com/FalcoSuessgott/vkv/pull/13) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [allow multiple paths](https://github.com/FalcoSuessgott/vkv/pull/12) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [print secrets in separate line](https://github.com/FalcoSuessgott/vkv/pull/11) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
@@ -47,7 +48,6 @@ Im based in Berlin/Germany.
 - [merge root and subpath params](https://github.com/FalcoSuessgott/vkv/pull/6) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
 - [vault api health check via the actual vault api address](https://github.com/ansible-community/ansible-vault/pull/267) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (1 week ago)
-- [Introduce transit auto unseal review](https://github.com/FalcoSuessgott/ansible-vault/pull/1) on [FalcoSuessgott/ansible-vault](https://github.com/FalcoSuessgott/ansible-vault) (1 week ago)
 
 #### 📓 Gists I wrote
 
