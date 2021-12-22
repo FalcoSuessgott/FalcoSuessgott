@@ -56,6 +56,7 @@ Im based in Berlin/Germany.
 
 #### ⭐ Recent Stars
 
+- [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (today)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 week ago)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (2 weeks ago)
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI (3 weeks ago)
@@ -65,7 +66,6 @@ Im based in Berlin/Germany.
 - [jonasvinther/medusa](https://github.com/jonasvinther/medusa) - A cli tool for importing and exporting Hashicorp Vault secrets (3 weeks ago)
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (1 month ago)
 - [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry (1 month ago)
-- [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
