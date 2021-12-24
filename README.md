@@ -57,7 +57,7 @@ Im based in Berlin/Germany.
 #### ⭐ Recent Stars
 
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (2 days ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 week ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 week ago)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (2 weeks ago)
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI (3 weeks ago)
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - go test output for humans (3 weeks ago)
