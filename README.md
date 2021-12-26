@@ -56,6 +56,7 @@ Im based in Berlin/Germany.
 
 #### ⭐ Recent Stars
 
+- [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (today)
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (4 days ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 week ago)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (2 weeks ago)
@@ -65,7 +66,6 @@ Im based in Berlin/Germany.
 - [Endava/cats](https://github.com/Endava/cats) - CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. (4 weeks ago)
 - [jonasvinther/medusa](https://github.com/jonasvinther/medusa) - A cli tool for importing and exporting Hashicorp Vault secrets (1 month ago)
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (1 month ago)
-- [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
