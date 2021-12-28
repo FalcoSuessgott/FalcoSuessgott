@@ -46,7 +46,7 @@ Im based in Berlin/Germany.
 - [introduce goreleaser](https://github.com/yyyar/gobetween/pull/323) on [yyyar/gobetween](https://github.com/yyyar/gobetween) (1 week ago)
 - [add dependabot](https://github.com/FalcoSuessgott/vkv/pull/7) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [merge root and subpath params](https://github.com/FalcoSuessgott/vkv/pull/6) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
+- [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 - [vault api health check via the actual vault api address](https://github.com/ansible-community/ansible-vault/pull/267) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (2 weeks ago)
 
 #### 📓 Gists I wrote
@@ -56,14 +56,14 @@ Im based in Berlin/Germany.
 
 #### ⭐ Recent Stars
 
-- [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (1 day ago)
-- [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (5 days ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 week ago)
+- [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (2 days ago)
+- [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (6 days ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 weeks ago)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (3 weeks ago)
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI (3 weeks ago)
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - go test output for humans (3 weeks ago)
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes (4 weeks ago)
-- [Endava/cats](https://github.com/Endava/cats) - CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. (4 weeks ago)
+- [Endava/cats](https://github.com/Endava/cats) - CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. (1 month ago)
 - [jonasvinther/medusa](https://github.com/jonasvinther/medusa) - A cli tool for importing and exporting Hashicorp Vault secrets (1 month ago)
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more... (1 month ago)
 
