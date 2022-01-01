@@ -31,9 +31,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.01.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.01.01), today) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.4](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.4), 2 weeks ago) - recursively list secrets from Vaults KV2 engine
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2021.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2021.12.01), 1 month ago) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) ([v0.0.1](https://github.com/FalcoSuessgott/md/releases/tag/v0.0.1), 5 months ago) - insert command output directly into your Markdown files!
 
 #### 🔨 My recent Pull Requests
