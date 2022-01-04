@@ -31,7 +31,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.01.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.01.01), 2 days ago) - :key: Ansible role for Hashicorp Vault
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.01.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.01.01), 3 days ago) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.4](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.4), 2 weeks ago) - recursively list secrets from Vaults KV2 engine
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 - [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) ([v0.0.1](https://github.com/FalcoSuessgott/md/releases/tag/v0.0.1), 5 months ago) - insert command output directly into your Markdown files!
@@ -46,7 +46,7 @@ Im based in Berlin/Germany.
 - [introduce goreleaser](https://github.com/yyyar/gobetween/pull/323) on [yyyar/gobetween](https://github.com/yyyar/gobetween) (2 weeks ago)
 - [add dependabot](https://github.com/FalcoSuessgott/vkv/pull/7) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 - [merge root and subpath params](https://github.com/FalcoSuessgott/vkv/pull/6) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
-- [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
+- [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
 - [vault api health check via the actual vault api address](https://github.com/ansible-community/ansible-vault/pull/267) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (3 weeks ago)
 
 #### 📓 Gists I wrote
@@ -58,7 +58,7 @@ Im based in Berlin/Germany.
 
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (1 week ago)
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (1 week ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 weeks ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 weeks ago)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (4 weeks ago)
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI (1 month ago)
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - go test output for humans (1 month ago)
