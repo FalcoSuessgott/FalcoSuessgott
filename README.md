@@ -35,6 +35,7 @@ Im based in Berlin/Germany.
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.4](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.4), 3 weeks ago) - recursively list secrets from Vaults KV2 engine
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 - [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) ([v0.0.1](https://github.com/FalcoSuessgott/md/releases/tag/v0.0.1), 5 months ago) - insert command output directly into your Markdown files!
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.1.2](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.1.2), 8 months ago) - A general purpose golang CLI  template for Github and Gitlab
 
 #### 🔨 My recent Pull Requests
 
