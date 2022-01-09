@@ -12,7 +12,7 @@ Im based in Berlin/Germany.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (4 months ago)
 - [FalcoSuessgott/tfproviderlint](https://github.com/FalcoSuessgott/tfproviderlint) - pre-commit hook for tfproviderlint (4 months ago)
 - [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) - pre-commit hook for tfplugindocs (4 months ago)
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (4 months ago)
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (5 months ago)
 - [pre-commit/pre-commit.com](https://github.com/pre-commit/pre-commit.com) -  (5 months ago)
 - [FalcoSuessgott/md](https://github.com/FalcoSuessgott/md) - insert command output directly into your Markdown files! (5 months ago)
 
@@ -57,8 +57,9 @@ Im based in Berlin/Germany.
 
 #### ⭐ Recent Stars
 
-- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents (1 day ago)
-- [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (1 week ago)
+- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes (today)
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents (2 days ago)
+- [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (2 weeks ago)
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (2 weeks ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 weeks ago)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (1 month ago)
@@ -66,7 +67,6 @@ Im based in Berlin/Germany.
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - go test output for humans (1 month ago)
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes (1 month ago)
 - [Endava/cats](https://github.com/Endava/cats) - CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. (1 month ago)
-- [jonasvinther/medusa](https://github.com/jonasvinther/medusa) - A cli tool for importing and exporting Hashicorp Vault secrets (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
