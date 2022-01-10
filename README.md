@@ -57,9 +57,9 @@ Im based in Berlin/Germany.
 
 #### ⭐ Recent Stars
 
-- [flathunters/flathunter](https://github.com/flathunters/flathunter) - TelegramBot that finds flats on immobilienscout24.de, wg-gesucht.de, ebay-kleinanzeigen.de, immowelt.de, idealista.it, subito.it and immobiliare.it (today)
-- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes (today)
-- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents (2 days ago)
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - TelegramBot that finds flats on immobilienscout24.de, wg-gesucht.de, ebay-kleinanzeigen.de, immowelt.de, idealista.it, subito.it and immobiliare.it (1 day ago)
+- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes (1 day ago)
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents (3 days ago)
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (2 weeks ago)
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (2 weeks ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 weeks ago)
