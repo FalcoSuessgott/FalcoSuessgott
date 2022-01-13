@@ -39,7 +39,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 days ago)
+- [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [metadata flag](https://github.com/FalcoSuessgott/vkv/pull/14) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
 - [allow 5% failure for PRs](https://github.com/FalcoSuessgott/vkv/pull/13) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
 - [allow multiple paths](https://github.com/FalcoSuessgott/vkv/pull/12) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
@@ -48,7 +48,7 @@ Im based in Berlin/Germany.
 - [introduce goreleaser](https://github.com/yyyar/gobetween/pull/323) on [yyyar/gobetween](https://github.com/yyyar/gobetween) (3 weeks ago)
 - [add dependabot](https://github.com/FalcoSuessgott/vkv/pull/7) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
 - [merge root and subpath params](https://github.com/FalcoSuessgott/vkv/pull/6) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
-- [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
+- [support VAULT_NAMESPACE](https://github.com/FalcoSuessgott/vkv/pull/5) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -57,12 +57,12 @@ Im based in Berlin/Germany.
 
 #### ⭐ Recent Stars
 
-- [flathunters/flathunter](https://github.com/flathunters/flathunter) - TelegramBot that finds flats on immobilienscout24.de, wg-gesucht.de, ebay-kleinanzeigen.de, immowelt.de, idealista.it, subito.it and immobiliare.it (3 days ago)
-- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes (3 days ago)
-- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents (5 days ago)
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - TelegramBot that finds flats on immobilienscout24.de, wg-gesucht.de, ebay-kleinanzeigen.de, immowelt.de, idealista.it, subito.it and immobiliare.it (4 days ago)
+- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes (4 days ago)
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents (6 days ago)
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go. (2 weeks ago)
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go) (3 weeks ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (4 weeks ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 month ago)
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments (1 month ago)
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI (1 month ago)
 - [haveyoudebuggedit/gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - go test output for humans (1 month ago)
