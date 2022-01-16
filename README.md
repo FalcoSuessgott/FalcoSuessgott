@@ -18,12 +18,12 @@ Im based in Berlin/Germany.
 #### 🔭 Latest releases I've contributed to
 
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.01.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.01.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.4](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.4), 4 weeks ago) - recursively list secrets from Vaults KV2 engine
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.4](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.4), 1 month ago) - recursively list secrets from Vaults KV2 engine
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### 🔨 My recent Pull Requests
 
-- [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
+- [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 - [metadata flag](https://github.com/FalcoSuessgott/vkv/pull/14) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
 - [allow 5% failure for PRs](https://github.com/FalcoSuessgott/vkv/pull/13) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
 
