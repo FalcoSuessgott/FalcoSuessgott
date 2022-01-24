@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
+- [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 - [metadata flag](https://github.com/FalcoSuessgott/vkv/pull/14) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 - [allow 5% failure for PRs](https://github.com/FalcoSuessgott/vkv/pull/13) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
