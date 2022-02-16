@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (6 days ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (1 month ago)
+- [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (1 week ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (2 months ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (2 months ago)
 
 #### 🌱 My latest projects
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [started 2nd webinar](https://github.com/FalcoSuessgott/openshift-vault-demo/pull/3) on [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) (6 days ago)
+- [started 2nd webinar](https://github.com/FalcoSuessgott/openshift-vault-demo/pull/3) on [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) (1 week ago)
 - [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
-- [metadata flag](https://github.com/FalcoSuessgott/vkv/pull/14) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
+- [metadata flag](https://github.com/FalcoSuessgott/vkv/pull/14) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
