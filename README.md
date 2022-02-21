@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (1 week ago)
+- [FalcoSuessgott/openshift-vault-demo](https://github.com/FalcoSuessgott/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (2 months ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (2 months ago)
 
