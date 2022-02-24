@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [avoid filepath join for windows support](https://github.com/FalcoSuessgott/vkv/pull/22) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [ignore leading delimiter](https://github.com/FalcoSuessgott/vkv/pull/21) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [started 2nd webinar](https://github.com/svalabs/openshift-vault-demo/pull/3) on [svalabs/openshift-vault-demo](https://github.com/svalabs/openshift-vault-demo) (2 weeks ago)
-- [export secrets as env vars](https://github.com/FalcoSuessgott/vkv/pull/19) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
