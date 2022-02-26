@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (2 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (today)
 - [svalabs/openshift-vault-demo](https://github.com/svalabs/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (5 days ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (2 months ago)
 
@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.6](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.6), 1 day ago) - recursively list secrets from Vaults KV2 engine
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.7](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.7), today) - recursively list secrets from Vaults KV2 engine
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.02.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.02.01), 3 weeks ago) - :key: Ansible role for Hashicorp Vault
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 2 months ago) - 👀 A modern watch command. Time machine and pager etc.
 
