@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list secrets from Vaults KV2 engine (5 days ago)
 - [svalabs/openshift-vault-demo](https://github.com/svalabs/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (1 week ago)
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [add matrix testing](https://github.com/FalcoSuessgott/golang-cli-template/pull/17) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (today)
 - [move codecov config to root dir](https://github.com/FalcoSuessgott/vkv/pull/27) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
 - [avoid filepath join for windows support](https://github.com/FalcoSuessgott/vkv/pull/22) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [ignore leading delimiter](https://github.com/FalcoSuessgott/vkv/pull/21) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
