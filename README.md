@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list and export (as env vars) key-values entries from Vaults KV2 engine (1 day ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list and export (as env vars) key-values entries from Vaults KV2 engine (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 week ago)
 - [svalabs/openshift-vault-demo](https://github.com/svalabs/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (2 weeks ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [add markdown output](https://github.com/FalcoSuessgott/vkv/pull/37) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [improve flags and usage](https://github.com/FalcoSuessgott/vkv/pull/36) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [export flag](https://github.com/FalcoSuessgott/vkv/pull/35) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
-- [vault version matrix testing](https://github.com/FalcoSuessgott/vkv/pull/34) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
