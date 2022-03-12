@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [improve flags and usage](https://github.com/FalcoSuessgott/vkv/pull/36) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [export flag](https://github.com/FalcoSuessgott/vkv/pull/35) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [vault version matrix testing](https://github.com/FalcoSuessgott/vkv/pull/34) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
-- [introduce MAX_VALUE_LENGTH flag](https://github.com/FalcoSuessgott/vkv/pull/33) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
