@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [implement import subcommand](https://github.com/FalcoSuessgott/vkv/pull/42) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [implement merge subcommand](https://github.com/FalcoSuessgott/vkv/pull/41) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [test cobra command](https://github.com/FalcoSuessgott/vkv/pull/39) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [add markdown output](https://github.com/FalcoSuessgott/vkv/pull/37) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
