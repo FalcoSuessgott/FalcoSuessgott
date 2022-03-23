@@ -7,7 +7,7 @@ Im based in Berlin/Germany.
 
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (1 week ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 weeks ago)
-- [svalabs/openshift-vault-demo](https://github.com/svalabs/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (4 weeks ago)
+- [svalabs/openshift-vault-demo](https://github.com/svalabs/openshift-vault-demo) - Demo showing how to use Hashicorps Vault with OpenShift (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [support ldap userfilter attribute](https://github.com/hashicorp/terraform-provider-vault/pull/1378) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (1 day ago)
-- [implement import subcommand](https://github.com/FalcoSuessgott/vkv/pull/42) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [implement merge subcommand](https://github.com/FalcoSuessgott/vkv/pull/41) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
+- [support ldap userfilter attribute](https://github.com/hashicorp/terraform-provider-vault/pull/1378) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (2 days ago)
+- [implement import subcommand](https://github.com/FalcoSuessgott/vkv/pull/42) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
+- [implement merge subcommand](https://github.com/FalcoSuessgott/vkv/pull/41) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
