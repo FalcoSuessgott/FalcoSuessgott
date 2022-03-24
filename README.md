@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.8](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.8), 1 week ago) - recursively list key-values entries from Vaults KV2 engine in various formats
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.9](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.9), today) - recursively list key-values entries from Vaults KV2 engine in various formats
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.03.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.03.01), 3 weeks ago) - :key: Ansible role for Hashicorp Vault
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 3 months ago) - 👀 A modern watch command. Time machine and pager etc.
 
