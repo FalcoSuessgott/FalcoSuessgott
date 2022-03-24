@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [make vkv configurable via envs](https://github.com/FalcoSuessgott/vkv/pull/43) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [support ldap userfilter attribute](https://github.com/hashicorp/terraform-provider-vault/pull/1378) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (3 days ago)
 - [implement import subcommand](https://github.com/FalcoSuessgott/vkv/pull/42) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
-- [implement merge subcommand](https://github.com/FalcoSuessgott/vkv/pull/41) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
