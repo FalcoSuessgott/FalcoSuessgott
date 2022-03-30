@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [[wip] intoduce tls_insecure in provider config for skipping tls cert verification](https://github.com/claranet/terraform-provider-zabbix/pull/35) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (today)
+- [intoduce tls_insecure in provider config for skipping tls cert verification](https://github.com/claranet/terraform-provider-zabbix/pull/35) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (today)
 - [move secrets out of NewPrinter func](https://github.com/FalcoSuessgott/vkv/pull/45) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
 - [make vkv configurable via envs](https://github.com/FalcoSuessgott/vkv/pull/43) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 
