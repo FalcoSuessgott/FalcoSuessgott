@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [improve findGitDir](https://github.com/liamg/comet/pull/1) on [liamg/comet](https://github.com/liamg/comet) (today)
 - [intoduce tls_insecure in provider config for skipping tls cert verification](https://github.com/claranet/terraform-provider-zabbix/pull/35) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (2 days ago)
 - [move secrets out of NewPrinter func](https://github.com/FalcoSuessgott/vkv/pull/45) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [make vkv configurable via envs](https://github.com/FalcoSuessgott/vkv/pull/43) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
