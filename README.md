@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.04.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.04.01), 2 days ago) - :key: Ansible role for Hashicorp Vault
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.04.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.04.01), 3 days ago) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.9](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.9), 1 week ago) - recursively list key-values entries from Vaults KV2 engine in various formats
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 4 months ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### 🔨 My recent Pull Requests
 
-- [improve findGitDir](https://github.com/liamg/comet/pull/1) on [liamg/comet](https://github.com/liamg/comet) (2 days ago)
-- [intoduce tls_insecure in provider config for skipping tls cert verification](https://github.com/claranet/terraform-provider-zabbix/pull/35) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (4 days ago)
+- [improve findGitDir](https://github.com/liamg/comet/pull/1) on [liamg/comet](https://github.com/liamg/comet) (3 days ago)
+- [intoduce tls_insecure in provider config for skipping tls cert verification](https://github.com/claranet/terraform-provider-zabbix/pull/35) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (5 days ago)
 - [move secrets out of NewPrinter func](https://github.com/FalcoSuessgott/vkv/pull/45) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
