@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [add tune block to ldap_auth_backend resource](https://github.com/hashicorp/terraform-provider-vault/pull/1405) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (today)
 - [improve findGitDir](https://github.com/liamg/comet/pull/1) on [liamg/comet](https://github.com/liamg/comet) (1 week ago)
 - [intoduce tls_insecure in provider config for skipping tls cert verification](https://github.com/claranet/terraform-provider-zabbix/pull/35) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (1 week ago)
-- [move secrets out of NewPrinter func](https://github.com/FalcoSuessgott/vkv/pull/45) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
