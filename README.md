@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [introduce output format: template](https://github.com/FalcoSuessgott/vkv/pull/58) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [print secrets as tree in base format](https://github.com/FalcoSuessgott/vkv/pull/57) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [print mount for every output format](https://github.com/FalcoSuessgott/vkv/pull/55) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [error if no paths specified](https://github.com/FalcoSuessgott/vkv/pull/53) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
