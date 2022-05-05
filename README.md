@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.05.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.05.01), 3 days ago) - :key: Ansible role for Hashicorp Vault
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.05.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.05.01), 4 days ago) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.12](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.12), 1 week ago) - recursively list key-values entries from Vaults KV2 engine in various formats
 - [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) ([v0.0.1](https://github.com/FalcoSuessgott/terraform-provider-dotfiles/releases/tag/v0.0.1), 3 weeks ago) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager
 
