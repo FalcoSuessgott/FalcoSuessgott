@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [dont error at deleted secrets](https://github.com/FalcoSuessgott/vkv/pull/63) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [update goreleaser](https://github.com/FalcoSuessgott/vkv/pull/60) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [introduce output format: template](https://github.com/FalcoSuessgott/vkv/pull/58) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
-- [print secrets as tree in base format](https://github.com/FalcoSuessgott/vkv/pull/57) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
