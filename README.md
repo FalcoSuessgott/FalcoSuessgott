@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [improve wording of PartOfDay](https://github.com/caarlos0/uhr/pull/1) on [caarlos0/uhr](https://github.com/caarlos0/uhr) (today)
 - [dont error at deleted secrets](https://github.com/FalcoSuessgott/vkv/pull/63) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [update goreleaser](https://github.com/FalcoSuessgott/vkv/pull/60) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [introduce output format: template](https://github.com/FalcoSuessgott/vkv/pull/58) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
