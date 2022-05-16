@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [caarlos0/uhr](https://github.com/caarlos0/uhr) - Zeichenorientierte Benutzerschnittstelle Uhr (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (3 days ago)
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (1 week ago)
-- [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/uhr](https://github.com/caarlos0/uhr) ([v0.2.2](https://github.com/caarlos0/uhr/releases/tag/v0.2.2), today) - Zeichenorientierte Benutzerschnittstelle Uhr
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.14](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.14), 3 days ago) - recursively list key-values entries from Vaults KV2 engine in various formats
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.05.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.05.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.5.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.5.0), 3 weeks ago) - Terraform Vault provider
 
 #### 🔨 My recent Pull Requests
 
