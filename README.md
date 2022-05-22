@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/uhr](https://github.com/caarlos0/uhr) ([v0.3.0](https://github.com/caarlos0/uhr/releases/tag/v0.3.0), today) - Zeichenorientierte Benutzerschnittstelle Uhr
+- [caarlos0/uhr](https://github.com/caarlos0/uhr) ([v0.4.0](https://github.com/caarlos0/uhr/releases/tag/v0.4.0), today) - Zeichenorientierte Benutzerschnittstelle Uhr
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.6.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.6.0), 4 days ago) - Terraform Vault provider
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.14](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.14), 1 week ago) - recursively list key-values entries from Vaults KV2 engine in various formats
 
