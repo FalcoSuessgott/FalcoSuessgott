@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [caarlos0/uhr](https://github.com/caarlos0/uhr) - Zeichenorientierte Benutzerschnittstelle Uhr (1 week ago)
+- [caarlos0/uhr](https://github.com/caarlos0/uhr) - Zeichenorientierte Benutzerschnittstelle Uhr (2 weeks ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (2 weeks ago)
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (3 weeks ago)
 
@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [improve wording of PartOfDay](https://github.com/caarlos0/uhr/pull/1) on [caarlos0/uhr](https://github.com/caarlos0/uhr) (1 week ago)
+- [improve wording of PartOfDay](https://github.com/caarlos0/uhr/pull/1) on [caarlos0/uhr](https://github.com/caarlos0/uhr) (2 weeks ago)
 - [dont error at deleted secrets](https://github.com/FalcoSuessgott/vkv/pull/63) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 - [update goreleaser](https://github.com/FalcoSuessgott/vkv/pull/60) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
 
