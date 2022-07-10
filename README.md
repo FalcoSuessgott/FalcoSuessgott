@@ -18,7 +18,7 @@ Im based in Berlin/Germany.
 #### 🔭 Latest releases I've contributed to
 
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.07.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.07.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.6](https://github.com/sachaos/viddy/releases/tag/v0.3.6), 1 week ago) - 👀 A modern watch command. Time machine and pager etc.
+- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.6](https://github.com/sachaos/viddy/releases/tag/v0.3.6), 2 weeks ago) - 👀 A modern watch command. Time machine and pager etc.
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.7.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.7.0), 3 weeks ago) - Terraform Vault provider
 
 #### 🔨 My recent Pull Requests
