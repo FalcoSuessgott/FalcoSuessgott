@@ -18,12 +18,12 @@ Im based in Berlin/Germany.
 #### 🔭 Latest releases I've contributed to
 
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.07.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.07.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.6](https://github.com/sachaos/viddy/releases/tag/v0.3.6), 2 weeks ago) - 👀 A modern watch command. Time machine and pager etc.
+- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.6](https://github.com/sachaos/viddy/releases/tag/v0.3.6), 3 weeks ago) - 👀 A modern watch command. Time machine and pager etc.
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.7.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.7.0), 1 month ago) - Terraform Vault provider
 
 #### 🔨 My recent Pull Requests
 
-- [Add vkv to related tools list](https://github.com/hashicorp/vault/pull/16285) on [hashicorp/vault](https://github.com/hashicorp/vault) (4 days ago)
+- [Add vkv to related tools list](https://github.com/hashicorp/vault/pull/16285) on [hashicorp/vault](https://github.com/hashicorp/vault) (5 days ago)
 - [improve wording of PartOfDay](https://github.com/caarlos0/uhr/pull/1) on [caarlos0/uhr](https://github.com/caarlos0/uhr) (2 months ago)
 - [dont error at deleted secrets](https://github.com/FalcoSuessgott/vkv/pull/63) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 months ago)
 
