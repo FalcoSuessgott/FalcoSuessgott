@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [Add vkv to related tools list](https://github.com/hashicorp/vault/pull/16285) on [hashicorp/vault](https://github.com/hashicorp/vault) (6 days ago)
+- [Add vkv to related tools list](https://github.com/hashicorp/vault/pull/16285) on [hashicorp/vault](https://github.com/hashicorp/vault) (1 week ago)
 - [improve wording of PartOfDay](https://github.com/caarlos0/uhr/pull/1) on [caarlos0/uhr](https://github.com/caarlos0/uhr) (2 months ago)
 - [dont error at deleted secrets](https://github.com/FalcoSuessgott/vkv/pull/63) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 months ago)
 
