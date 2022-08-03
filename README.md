@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (today)
 - [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager (1 month ago)
 - [caarlos0/uhr](https://github.com/caarlos0/uhr) - Zeichenorientierte Benutzerschnittstelle Uhr (2 months ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.2](https://github.com/hashicorp/vault/releases/tag/v1.11.2), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.08.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.08.01), 2 days ago) - :key: Ansible role for Hashicorp Vault
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.8.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.8.0), 1 week ago) - Terraform Vault provider
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.6](https://github.com/sachaos/viddy/releases/tag/v0.3.6), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### 🔨 My recent Pull Requests
 
