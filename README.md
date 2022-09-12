@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) - pre-commit hook for tfplugindocs (today)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 month ago)
 - [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager (2 months ago)
-- [caarlos0/uhr](https://github.com/caarlos0/uhr) - Zeichenorientierte Benutzerschnittstelle Uhr (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) ([v0.0.2](https://github.com/FalcoSuessgott/tfplugindocs/releases/tag/v0.0.2), today) - pre-commit hook for tfplugindocs
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.09.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.09.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.9.9](https://github.com/hashicorp/vault/releases/tag/v1.9.9), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.8.2](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.8.2), 1 month ago) - Terraform Vault provider
 
 #### 🔨 My recent Pull Requests
 
