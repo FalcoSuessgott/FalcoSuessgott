@@ -6,7 +6,7 @@ Im based in Berlin/Germany.
 #### 👷 Check out what I'm currently working on
 
 - [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) - pre-commit hook for tfplugindocs (2 weeks ago)
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 month ago)
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (2 months ago)
 - [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager (3 months ago)
 
 #### 🌱 My latest projects
@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), today) - :key: Ansible role for Hashicorp Vault
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.12.0-rc1), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), 1 day ago) - :key: Ansible role for Hashicorp Vault
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.12.0-rc1), 2 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) ([v0.0.2](https://github.com/FalcoSuessgott/tfplugindocs/releases/tag/v0.0.2), 2 weeks ago) - pre-commit hook for tfplugindocs
 
 #### 🔨 My recent Pull Requests
