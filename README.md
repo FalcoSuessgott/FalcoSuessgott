@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), 2 days ago) - :key: Ansible role for Hashicorp Vault
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.12.0-rc1), 3 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), 3 days ago) - :key: Ansible role for Hashicorp Vault
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.12.0-rc1), 4 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) ([v0.0.2](https://github.com/FalcoSuessgott/tfplugindocs/releases/tag/v0.0.2), 3 weeks ago) - pre-commit hook for tfplugindocs
 
 #### 🔨 My recent Pull Requests
