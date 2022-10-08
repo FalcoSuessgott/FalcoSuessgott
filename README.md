@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.9.1](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.9.1), 1 day ago) - Terraform Vault provider
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), 6 days ago) - :key: Ansible role for Hashicorp Vault
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.9.1](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.9.1), 2 days ago) - Terraform Vault provider
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.12.0-rc1), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
