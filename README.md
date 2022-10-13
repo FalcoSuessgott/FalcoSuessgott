@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0](https://github.com/hashicorp/vault/releases/tag/v1.12.0), today) - A tool for secrets management, encryption as a service, and privileged access management
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.9.1](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.9.1), 6 days ago) - Terraform Vault provider
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0](https://github.com/hashicorp/vault/releases/tag/v1.12.0), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.9.1](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.9.1), 1 week ago) - Terraform Vault provider
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 
 #### 🔨 My recent Pull Requests
 
-- [refactor](https://github.com/FalcoSuessgott/dotfiles/pull/3) on [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) (1 day ago)
+- [refactor](https://github.com/FalcoSuessgott/dotfiles/pull/3) on [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) (2 days ago)
 - [Add vkv to related tools list](https://github.com/hashicorp/vault/pull/16285) on [hashicorp/vault](https://github.com/hashicorp/vault) (3 months ago)
-- [improve wording of PartOfDay](https://github.com/caarlos0/uhr/pull/1) on [caarlos0/uhr](https://github.com/caarlos0/uhr) (4 months ago)
+- [improve wording of PartOfDay](https://github.com/caarlos0/uhr/pull/1) on [caarlos0/uhr](https://github.com/caarlos0/uhr) (5 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
