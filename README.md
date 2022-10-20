@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/gitget](https://github.com/FalcoSuessgott/gitget) - Browse interactively through branches, files and directories of a git repository and download them (today)
+- [FalcoSuessgott/gitget](https://github.com/FalcoSuessgott/gitget) - Browse interactively through branches, files and directories of a git repository and download them (1 day ago)
 - [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) - pre-commit hook for tfplugindocs (1 month ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (2 months ago)
 
@@ -18,12 +18,12 @@ Im based in Berlin/Germany.
 #### 🔭 Latest releases I've contributed to
 
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0](https://github.com/hashicorp/vault/releases/tag/v1.12.0), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.9.1](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.9.1), 1 week ago) - Terraform Vault provider
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.9.1](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.9.1), 2 weeks ago) - Terraform Vault provider
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.10.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
 
 #### 🔨 My recent Pull Requests
 
-- [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/82) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
+- [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/82) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [refactor](https://github.com/FalcoSuessgott/dotfiles/pull/3) on [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) (1 week ago)
 - [Add vkv to related tools list](https://github.com/hashicorp/vault/pull/16285) on [hashicorp/vault](https://github.com/hashicorp/vault) (3 months ago)
 
