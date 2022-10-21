@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [test version flag](https://github.com/FalcoSuessgott/vkv/pull/83) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/82) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [refactor](https://github.com/FalcoSuessgott/dotfiles/pull/3) on [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) (1 week ago)
-- [Add vkv to related tools list](https://github.com/hashicorp/vault/pull/16285) on [hashicorp/vault](https://github.com/hashicorp/vault) (3 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
