@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (today)
 - [FalcoSuessgott/gitget](https://github.com/FalcoSuessgott/gitget) - Browse interactively through branches, files and directories of a git repository and download them (2 days ago)
 - [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) - pre-commit hook for tfplugindocs (1 month ago)
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [ship build tools using go generate](https://github.com/FalcoSuessgott/vkv/pull/84) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [test version flag](https://github.com/FalcoSuessgott/vkv/pull/83) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/82) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [refactor](https://github.com/FalcoSuessgott/dotfiles/pull/3) on [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
