@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [handle kv secret engine path with multiple slash by escaping it with //](https://github.com/FalcoSuessgott/vkv/pull/85) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
+- [introduce -e cli flag for specfying the engine path in case of special characters](https://github.com/FalcoSuessgott/vkv/pull/85) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [ship build tools using go generate](https://github.com/FalcoSuessgott/vkv/pull/84) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [test version flag](https://github.com/FalcoSuessgott/vkv/pull/83) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 
