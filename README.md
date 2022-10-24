@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/90) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [introduce -e cli flag for specfying the engine path in case of special characters](https://github.com/FalcoSuessgott/vkv/pull/85) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [ship build tools using go generate](https://github.com/FalcoSuessgott/vkv/pull/84) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
-- [test version flag](https://github.com/FalcoSuessgott/vkv/pull/83) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
