@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (4 days ago)
 - [FalcoSuessgott/gitget](https://github.com/FalcoSuessgott/gitget) - Browse interactively through branches, files and directories of a git repository and download them (6 days ago)
-- [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) - pre-commit hook for tfplugindocs (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [update for go 1.19](https://github.com/FalcoSuessgott/golang-cli-template/pull/22) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (today)
 - [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/90) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [introduce -e cli flag for specfying the engine path in case of special characters](https://github.com/FalcoSuessgott/vkv/pull/85) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [ship build tools using go generate](https://github.com/FalcoSuessgott/vkv/pull/84) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
