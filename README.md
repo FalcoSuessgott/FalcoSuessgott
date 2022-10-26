@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.10.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.10.0), today) - Terraform Vault provider
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.2.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.2.0), 1 day ago) - A general purpose golang CLI  template for Github and Gitlab
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.15](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.15), 5 days ago) - recursively list key-values entries from Vaults KV2 engine in various formats
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.0](https://github.com/hashicorp/vault/releases/tag/v1.12.0), 2 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
 
