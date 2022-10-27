@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [add makefile target for vhs and asset generation](https://github.com/FalcoSuessgott/vkv/pull/95) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [update for go 1.19](https://github.com/FalcoSuessgott/golang-cli-template/pull/22) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (2 days ago)
 - [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/90) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
-- [introduce -e cli flag for specfying the engine path in case of special characters](https://github.com/FalcoSuessgott/vkv/pull/85) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
