@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (2 days ago)
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (5 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (3 days ago)
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (6 days ago)
 - [FalcoSuessgott/gitget](https://github.com/FalcoSuessgott/gitget) - Browse interactively through branches, files and directories of a git repository and download them (1 week ago)
 
 #### 🌱 My latest projects
@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.16](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.16), 2 days ago) - recursively list key-values entries from Vaults KV2 engine in various formats
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.10.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.10.0), 4 days ago) - Terraform Vault provider
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.2.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.2.0), 5 days ago) - A general purpose golang CLI  template for Github and Gitlab
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.16](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.16), 3 days ago) - recursively list key-values entries from Vaults KV2 engine in various formats
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.10.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.10.0), 5 days ago) - Terraform Vault provider
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.2.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.2.0), 6 days ago) - A general purpose golang CLI  template for Github and Gitlab
 
 #### 🔨 My recent Pull Requests
 
-- [add makefile target for vhs and asset generation](https://github.com/FalcoSuessgott/vkv/pull/95) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
-- [update for go 1.19](https://github.com/FalcoSuessgott/golang-cli-template/pull/22) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (5 days ago)
-- [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/90) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
+- [add makefile target for vhs and asset generation](https://github.com/FalcoSuessgott/vkv/pull/95) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
+- [update for go 1.19](https://github.com/FalcoSuessgott/golang-cli-template/pull/22) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (6 days ago)
+- [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/90) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
