@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (3 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (6 days ago)
 - [FalcoSuessgott/gitget](https://github.com/FalcoSuessgott/gitget) - Browse interactively through branches, files and directories of a git repository and download them (1 week ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [improve template input](https://github.com/FalcoSuessgott/vkv/pull/99) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
+- [fix path default values](https://github.com/FalcoSuessgott/vkv/pull/98) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [add makefile target for vhs and asset generation](https://github.com/FalcoSuessgott/vkv/pull/95) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [update for go 1.19](https://github.com/FalcoSuessgott/golang-cli-template/pull/22) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (6 days ago)
-- [fix tree view bug](https://github.com/FalcoSuessgott/vkv/pull/90) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
