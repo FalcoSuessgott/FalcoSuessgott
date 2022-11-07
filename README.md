@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.1.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.1.0), today) - recursively list key-values entries from Vaults KV2 engine in various formats
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.5](https://github.com/hashicorp/vault/releases/tag/v1.11.5), 6 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.11.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.11.01), 6 days ago) - :key: Ansible role for Hashicorp Vault
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.0.17](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.0.17), 1 week ago) - recursively list key-values entries from Vaults KV2 engine in various formats
 
 #### 🔨 My recent Pull Requests
 
