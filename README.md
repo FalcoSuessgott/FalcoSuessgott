@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (1 day ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 weeks ago)
 - [FalcoSuessgott/gitget](https://github.com/FalcoSuessgott/gitget) - Browse interactively through branches, files and directories of a git repository and download them (2 weeks ago)
 
