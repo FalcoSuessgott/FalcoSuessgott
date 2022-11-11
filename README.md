@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [pages](https://github.com/FalcoSuessgott/vkv/pull/106) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [introduce import subcommand](https://github.com/FalcoSuessgott/vkv/pull/105) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [introduce policy output](https://github.com/FalcoSuessgott/vkv/pull/104) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [Gif harmonizing](https://github.com/FalcoSuessgott/vkv/pull/103) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
