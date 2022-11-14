@@ -5,19 +5,19 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - export/import secrets from Vaults KV2 engine (today)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (3 days ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats (6 days ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 weeks ago)
 
 #### 🌱 My latest projects
 
 - [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - recursively list key-values entries from Vaults KV2 engine in various formats
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - export/import secrets from Vaults KV2 engine
 - [FalcoSuessgott/tfplugindocs](https://github.com/FalcoSuessgott/tfplugindocs) - pre-commit hook for tfplugindocs
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.1.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.1.0), 1 week ago) - recursively list key-values entries from Vaults KV2 engine in various formats
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.1.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.1.1), today) - export/import secrets from Vaults KV2 engine
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) ([v0.0.1](https://github.com/FalcoSuessgott/dotfiles/releases/tag/v0.0.1), 1 week ago) - 
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.5](https://github.com/hashicorp/vault/releases/tag/v1.11.5), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
 
