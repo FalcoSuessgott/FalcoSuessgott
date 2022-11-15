@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - export/import secrets from Vaults KV2 engine (1 day ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - export/import secrets from Vaults KV2 engine (today)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (4 days ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (3 weeks ago)
 
