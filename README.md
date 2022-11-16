@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.11.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.11.0), today) - Terraform Vault provider
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.1.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.1.1), 2 days ago) - export/import secrets from Vaults KV2 engine
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) ([v0.0.1](https://github.com/FalcoSuessgott/dotfiles/releases/tag/v0.0.1), 2 weeks ago) - 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.5](https://github.com/hashicorp/vault/releases/tag/v1.11.5), 2 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
 
