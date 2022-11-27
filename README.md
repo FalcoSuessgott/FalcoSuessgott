@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (1 day ago)
-- [Backup](https://github.com/FalcoSuessgott/vkv/pull/110) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
+- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (2 days ago)
+- [Backup](https://github.com/FalcoSuessgott/vkv/pull/110) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [add function for reading secret version](https://github.com/FalcoSuessgott/vkv/pull/109) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
