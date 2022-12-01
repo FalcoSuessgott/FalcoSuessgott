@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), today) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.1.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.1.2), 1 week ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.11.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.11.0), 2 weeks ago) - Terraform Vault provider
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (5 days ago)
+- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (6 days ago)
 - [Backup](https://github.com/FalcoSuessgott/vkv/pull/110) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [add function for reading secret version](https://github.com/FalcoSuessgott/vkv/pull/109) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
+- [add function for reading secret version](https://github.com/FalcoSuessgott/vkv/pull/109) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
