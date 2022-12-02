@@ -6,7 +6,7 @@ Im based in Berlin/Germany.
 #### 👷 Check out what I'm currently working on
 
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 week ago)
-- [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (2 weeks ago)
+- [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (3 weeks ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 month ago)
 
 #### 🌱 My latest projects
@@ -17,13 +17,13 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.12.01), today) - :key: Ansible role for Hashicorp Vault
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.12.01), 1 day ago) - :key: Ansible role for Hashicorp Vault
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 2 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.1.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.1.2), 1 week ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (6 days ago)
+- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (1 week ago)
 - [Backup](https://github.com/FalcoSuessgott/vkv/pull/110) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [add function for reading secret version](https://github.com/FalcoSuessgott/vkv/pull/109) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
