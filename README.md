@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.12.01), 4 days ago) - :key: Ansible role for Hashicorp Vault
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 5 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2022.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2022.12.01), 5 days ago) - :key: Ansible role for Hashicorp Vault
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 6 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.1.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.1.2), 2 weeks ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 
 #### 🔨 My recent Pull Requests
