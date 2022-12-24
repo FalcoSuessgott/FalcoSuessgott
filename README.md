@@ -7,7 +7,7 @@ Im based in Berlin/Germany.
 
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 month ago)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (1 month ago)
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 month ago)
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 months ago)
 
 #### 🌱 My latest projects
 
