@@ -24,7 +24,7 @@ Im based in Berlin/Germany.
 #### 🔨 My recent Pull Requests
 
 - [fix: only set client_ca_file for tcp listener when defined](https://github.com/ansible-community/ansible-vault/pull/320) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (2 weeks ago)
-- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (4 weeks ago)
+- [feat: support validating commit messages](https://github.com/liamg/comet/pull/5) on [liamg/comet](https://github.com/liamg/comet) (1 month ago)
 - [Backup](https://github.com/FalcoSuessgott/vkv/pull/110) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
