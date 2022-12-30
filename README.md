@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (today)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 day ago)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (1 month ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 months ago)
 
@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.0), today) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 4 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.0), 1 day ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 1 month ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.11.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.11.0), 1 month ago) - Terraform Vault provider
 
 #### 🔨 My recent Pull Requests
