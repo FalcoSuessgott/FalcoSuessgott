@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(docker): move binary to /usr/bin/](https://github.com/FalcoSuessgott/vkv/pull/117) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(docker): add dockerfile and CI](https://github.com/FalcoSuessgott/vkv/pull/115) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [feat(goreleaser): add manpages and completion](https://github.com/FalcoSuessgott/vkv/pull/114) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [fix: only set client_ca_file for tcp listener when defined](https://github.com/ansible-community/ansible-vault/pull/320) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (4 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
