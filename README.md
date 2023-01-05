@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (2 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (today)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (1 month ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 months ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(output): show values for json and yaml output](https://github.com/FalcoSuessgott/vkv/pull/119) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(docker): move binary to /usr/bin/](https://github.com/FalcoSuessgott/vkv/pull/117) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 days ago)
 - [feat(docker): add dockerfile and CI](https://github.com/FalcoSuessgott/vkv/pull/115) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
-- [feat(goreleaser): add manpages and completion](https://github.com/FalcoSuessgott/vkv/pull/114) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
