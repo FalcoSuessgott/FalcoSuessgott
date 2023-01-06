@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (today)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 day ago)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (1 month ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 months ago)
 
@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.12.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.12.0), today) - Terraform Vault provider
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.1), 5 days ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.12.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.12.0), 1 day ago) - Terraform Vault provider
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.1), 6 days ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.2](https://github.com/hashicorp/vault/releases/tag/v1.12.2), 1 month ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
 
-- [fix(output): show values for json and yaml output](https://github.com/FalcoSuessgott/vkv/pull/119) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
-- [feat(docker): move binary to /usr/bin/](https://github.com/FalcoSuessgott/vkv/pull/117) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 days ago)
-- [feat(docker): add dockerfile and CI](https://github.com/FalcoSuessgott/vkv/pull/115) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
+- [fix(output): show values for json and yaml output](https://github.com/FalcoSuessgott/vkv/pull/119) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
+- [feat(docker): move binary to /usr/bin/](https://github.com/FalcoSuessgott/vkv/pull/117) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
+- [feat(docker): add dockerfile and CI](https://github.com/FalcoSuessgott/vkv/pull/115) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
