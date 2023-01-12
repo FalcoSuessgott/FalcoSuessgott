@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (today)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (today)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 week ago)
 - [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.2), today) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.12.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.12.0), 1 week ago) - Terraform Vault provider
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.1), 1 week ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.4.12](https://github.com/kubermatic/kubeone/releases/tag/v1.4.12), 1 month ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 
 #### 🔨 My recent Pull Requests
