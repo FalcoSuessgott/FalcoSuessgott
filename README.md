@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [add ca bundle to osm deployment](https://github.com/kubermatic/kubeone/pull/2588) on [kubermatic/kubeone](https://github.com/kubermatic/kubeone) (today)
 - [fix(output): show values for json and yaml output](https://github.com/FalcoSuessgott/vkv/pull/119) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [feat(docker): move binary to /usr/bin/](https://github.com/FalcoSuessgott/vkv/pull/117) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [feat(docker): add dockerfile and CI](https://github.com/FalcoSuessgott/vkv/pull/115) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
