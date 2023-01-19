@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor OpenStack example terraform boilerplate code](https://github.com/kubermatic/kubeone/pull/2605) on [kubermatic/kubeone](https://github.com/kubermatic/kubeone) (today)
 - [add ca bundle to osm deployment](https://github.com/kubermatic/kubeone/pull/2588) on [kubermatic/kubeone](https://github.com/kubermatic/kubeone) (1 week ago)
 - [fix(output): show values for json and yaml output](https://github.com/FalcoSuessgott/vkv/pull/119) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
-- [feat(docker): move binary to /usr/bin/](https://github.com/FalcoSuessgott/vkv/pull/117) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
