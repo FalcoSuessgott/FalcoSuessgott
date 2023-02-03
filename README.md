@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (3 weeks ago)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (3 weeks ago)
-- [FalcoSuessgott/dotfiles](https://github.com/FalcoSuessgott/dotfiles) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.3.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.3.0), today) - A general purpose golang CLI  template for Github and Gitlab
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.5.6](https://github.com/kubermatic/kubeone/releases/tag/v1.5.6), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.2), 3 weeks ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.12.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.12.0), 4 weeks ago) - Terraform Vault provider
 
 #### 🔨 My recent Pull Requests
 
+- [fix(install): replace case insensitive](https://github.com/FalcoSuessgott/golang-cli-template/pull/27) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (today)
 - [improvements](https://github.com/FalcoSuessgott/golang-cli-template/pull/26) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (today)
 - [introduce envvar func](https://github.com/hashicorp/terraform/pull/32561) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (1 week ago)
-- [Refactor OpenStack example terraform boilerplate code](https://github.com/kubermatic/kubeone/pull/2605) on [kubermatic/kubeone](https://github.com/kubermatic/kubeone) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
