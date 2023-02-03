@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [improvements](https://github.com/FalcoSuessgott/golang-cli-template/pull/26) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (today)
 - [introduce envvar func](https://github.com/hashicorp/terraform/pull/32561) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (1 week ago)
 - [Refactor OpenStack example terraform boilerplate code](https://github.com/kubermatic/kubeone/pull/2605) on [kubermatic/kubeone](https://github.com/kubermatic/kubeone) (2 weeks ago)
-- [add ca bundle to osm deployment](https://github.com/kubermatic/kubeone/pull/2588) on [kubermatic/kubeone](https://github.com/kubermatic/kubeone) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
