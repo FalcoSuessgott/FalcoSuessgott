@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.10.10](https://github.com/hashicorp/vault/releases/tag/v1.10.10), today) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.3.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.3.0), 3 days ago) - A general purpose golang CLI  template for Github and Gitlab
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.5.6](https://github.com/kubermatic/kubeone/releases/tag/v1.5.6), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.2.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.2.2), 3 weeks ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 
 #### 🔨 My recent Pull Requests
 
