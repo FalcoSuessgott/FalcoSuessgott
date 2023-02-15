@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (today)
+- [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (1 day ago)
 - [fix(install): replace case insensitive](https://github.com/FalcoSuessgott/golang-cli-template/pull/27) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
 - [improvements](https://github.com/FalcoSuessgott/golang-cli-template/pull/26) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
 
