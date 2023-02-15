@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), today) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.1](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.1), today) - a HashiCorp Vault cluster management tool
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.12.3](https://github.com/hashicorp/vault/releases/tag/v1.12.3), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.3.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.3.0), 1 week ago) - A general purpose golang CLI  template for Github and Gitlab
 
 #### 🔨 My recent Pull Requests
