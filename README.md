@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [feat(custom): introduce custom command](https://github.com/FalcoSuessgott/vops/pull/5) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (2 days ago)
-- [fix(install): replace case insensitive](https://github.com/FalcoSuessgott/golang-cli-template/pull/27) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
