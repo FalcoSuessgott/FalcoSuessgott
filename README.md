@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - a HashiCorp Vault cluster management tool (today)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - a HashiCorp Vault cluster management tool (1 day ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 week ago)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (1 month ago)
 
@@ -17,13 +17,13 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), today) - A tool for secrets management, encryption as a service, and privileged access management
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.1](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.1), today) - a HashiCorp Vault cluster management tool
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.1](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.1), 1 day ago) - a HashiCorp Vault cluster management tool
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.3.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.3.0), 1 week ago) - A general purpose golang CLI  template for Github and Gitlab
 
 #### 🔨 My recent Pull Requests
 
-- [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (1 day ago)
+- [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (2 days ago)
 - [fix(install): replace case insensitive](https://github.com/FalcoSuessgott/golang-cli-template/pull/27) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
 - [improvements](https://github.com/FalcoSuessgott/golang-cli-template/pull/26) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
 
