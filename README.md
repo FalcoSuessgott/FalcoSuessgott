@@ -5,20 +5,20 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - a HashiCorp Vault cluster management tool (today)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 week ago)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (1 month ago)
 
 #### 🌱 My latest projects
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - a HashiCorp Vault cluster management tool
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool
 - [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.2](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.2), today) - A HashiCorp Vault cluster management tool
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.1](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.1), 1 day ago) - a HashiCorp Vault cluster management tool
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.3.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.3.0), 1 week ago) - A general purpose golang CLI  template for Github and Gitlab
 
 #### 🔨 My recent Pull Requests
