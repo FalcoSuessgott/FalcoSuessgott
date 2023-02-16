@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - a HashiCorp Vault cluster management tool (1 day ago)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - a HashiCorp Vault cluster management tool (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 week ago)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (1 month ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(custom): introduce custom command](https://github.com/FalcoSuessgott/vops/pull/5) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (2 days ago)
 - [fix(install): replace case insensitive](https://github.com/FalcoSuessgott/golang-cli-template/pull/27) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
-- [improvements](https://github.com/FalcoSuessgott/golang-cli-template/pull/26) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
