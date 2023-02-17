@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (today)
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 week ago)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (1 day ago)
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 weeks ago)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (1 month ago)
 
 #### 🌱 My latest projects
@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.2](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.2), today) - A HashiCorp Vault cluster management tool
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.3.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.3.0), 1 week ago) - A general purpose golang CLI  template for Github and Gitlab
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.2](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.2), 1 day ago) - A HashiCorp Vault cluster management tool
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), 2 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) ([v0.3.0](https://github.com/FalcoSuessgott/golang-cli-template/releases/tag/v0.3.0), 2 weeks ago) - A general purpose golang CLI  template for Github and Gitlab
 
 #### 🔨 My recent Pull Requests
 
-- [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
-- [feat(custom): introduce custom command](https://github.com/FalcoSuessgott/vops/pull/5) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
-- [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (2 days ago)
+- [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
+- [feat(custom): introduce custom command](https://github.com/FalcoSuessgott/vops/pull/5) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
+- [add oem to AccountService](https://github.com/stmcginnis/gofish/pull/226) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
