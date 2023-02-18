@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (today)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (1 day ago)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (2 weeks ago)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (1 month ago)
 
@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.13.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.13.0), today) - Terraform Vault provider
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.3](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.3), today) - A HashiCorp Vault cluster management tool
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), 2 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.13.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.13.0), 1 day ago) - Terraform Vault provider
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.3](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.3), 1 day ago) - A HashiCorp Vault cluster management tool
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.13.0-rc1), 3 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
 
-- [UI](https://github.com/FalcoSuessgott/vops/pull/7) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
-- [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
-- [feat(custom): introduce custom command](https://github.com/FalcoSuessgott/vops/pull/5) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
+- [UI](https://github.com/FalcoSuessgott/vops/pull/7) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
+- [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (2 days ago)
+- [feat(custom): introduce custom command](https://github.com/FalcoSuessgott/vops/pull/5) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
