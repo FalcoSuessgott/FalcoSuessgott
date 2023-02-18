@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(config): improve configfile validation](https://github.com/FalcoSuessgott/vops/pull/8) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [UI](https://github.com/FalcoSuessgott/vops/pull/7) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
 - [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (2 days ago)
-- [feat(custom): introduce custom command](https://github.com/FalcoSuessgott/vops/pull/5) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
