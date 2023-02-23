@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.6.0-rc.3](https://github.com/kubermatic/kubeone/releases/tag/v1.6.0-rc.3), today) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.6.0](https://github.com/kubermatic/kubeone/releases/tag/v1.6.0), today) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.13.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.13.0), 6 days ago) - Terraform Vault provider
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.3](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.3), 6 days ago) - A HashiCorp Vault cluster management tool
 
