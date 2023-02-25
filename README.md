@@ -17,13 +17,13 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.6.0](https://github.com/kubermatic/kubeone/releases/tag/v1.6.0), 1 day ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.6.0](https://github.com/kubermatic/kubeone/releases/tag/v1.6.0), 2 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.13.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.13.0), 1 week ago) - Terraform Vault provider
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.3](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.3), 1 week ago) - A HashiCorp Vault cluster management tool
 
 #### 🔨 My recent Pull Requests
 
-- [feat(config): improve configfile validation](https://github.com/FalcoSuessgott/vops/pull/8) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (6 days ago)
+- [feat(config): improve configfile validation](https://github.com/FalcoSuessgott/vops/pull/8) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 - [UI](https://github.com/FalcoSuessgott/vops/pull/7) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 - [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 
