@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (2 days ago)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (3 weeks ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 month ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(prerune): use persistentprerune func and persistent cluster flags](https://github.com/FalcoSuessgott/vops/pull/12) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [feat(config): improve configfile validation](https://github.com/FalcoSuessgott/vops/pull/8) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 - [UI](https://github.com/FalcoSuessgott/vops/pull/7) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
-- [docs(README): improve readme](https://github.com/FalcoSuessgott/vops/pull/6) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
