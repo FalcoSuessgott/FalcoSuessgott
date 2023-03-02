@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.5](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.5), today) - A HashiCorp Vault cluster management tool
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0](https://github.com/hashicorp/vault/releases/tag/v1.13.0), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.4](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.4), 2 days ago) - A HashiCorp Vault cluster management tool
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.6.0](https://github.com/kubermatic/kubeone/releases/tag/v1.6.0), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 
 #### 🔨 My recent Pull Requests
