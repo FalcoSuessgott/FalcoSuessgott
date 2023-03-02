@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(adhoc): add adhoc command](https://github.com/FalcoSuessgott/vops/pull/14) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
+- [feat(testing): add e2e test](https://github.com/FalcoSuessgott/vops/pull/13) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [feat(prerune): use persistentprerune func and persistent cluster flags](https://github.com/FalcoSuessgott/vops/pull/12) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
-- [feat(config): improve configfile validation](https://github.com/FalcoSuessgott/vops/pull/8) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
-- [UI](https://github.com/FalcoSuessgott/vops/pull/7) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
