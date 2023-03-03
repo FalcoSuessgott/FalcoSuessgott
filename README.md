@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (1 day ago)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (4 weeks ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 month ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(init): add boolean flag for autounseal initialization](https://github.com/FalcoSuessgott/vops/pull/16) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [feat(cfgval): list token exec command error in config validate command](https://github.com/FalcoSuessgott/vops/pull/15) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [feat(adhoc): add adhoc command](https://github.com/FalcoSuessgott/vops/pull/14) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
-- [feat(testing): add e2e test](https://github.com/FalcoSuessgott/vops/pull/13) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
