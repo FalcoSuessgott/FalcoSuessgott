@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cfgval): list token exec command error in config validate command](https://github.com/FalcoSuessgott/vops/pull/15) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [feat(adhoc): add adhoc command](https://github.com/FalcoSuessgott/vops/pull/14) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
 - [feat(testing): add e2e test](https://github.com/FalcoSuessgott/vops/pull/13) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
-- [feat(prerune): use persistentprerune func and persistent cluster flags](https://github.com/FalcoSuessgott/vops/pull/12) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
