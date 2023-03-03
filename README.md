@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(snapshot): fix filerenaming](https://github.com/FalcoSuessgott/vops/pull/17) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [fix(init): add boolean flag for autounseal initialization](https://github.com/FalcoSuessgott/vops/pull/16) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
 - [feat(cfgval): list token exec command error in config validate command](https://github.com/FalcoSuessgott/vops/pull/15) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (today)
-- [feat(adhoc): add adhoc command](https://github.com/FalcoSuessgott/vops/pull/14) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
