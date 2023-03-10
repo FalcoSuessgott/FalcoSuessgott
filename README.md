@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (today)
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 month ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -19,7 +19,7 @@ Im based in Berlin/Germany.
 
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.6](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.6), today) - A HashiCorp Vault cluster management tool
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0](https://github.com/hashicorp/vault/releases/tag/v1.13.0), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.6.0](https://github.com/kubermatic/kubeone/releases/tag/v1.6.0), 2 weeks ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.03.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.03.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 
 #### 🔨 My recent Pull Requests
 
