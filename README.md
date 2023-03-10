@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): ignore examples dir in ansible lint](https://github.com/ansible-community/ansible-vault/pull/327) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (today)
 - [fix(snapshot): fix filerenaming](https://github.com/FalcoSuessgott/vops/pull/17) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 - [fix(init): add boolean flag for autounseal initialization](https://github.com/FalcoSuessgott/vops/pull/16) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
-- [feat(cfgval): list token exec command error in config validate command](https://github.com/FalcoSuessgott/vops/pull/15) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
