@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(vars): improve var presentation](https://github.com/FalcoSuessgott/ansdoc/pull/9) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (today)
 - [chore(repo): add boilercode](https://github.com/FalcoSuessgott/ansdoc/pull/1) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (today)
 - [fix(ci): ignore examples dir in ansible lint](https://github.com/ansible-community/ansible-vault/pull/327) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (3 days ago)
-- [fix(snapshot): fix filerenaming](https://github.com/FalcoSuessgott/vops/pull/17) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
