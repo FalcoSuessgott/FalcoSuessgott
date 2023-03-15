@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.14.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.14.0), today) - Terraform Vault provider
 - [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) ([v0.0.2](https://github.com/FalcoSuessgott/ansdoc/releases/tag/v0.0.2), 2 days ago) - out-of-the-box markown table documentation for any ansible role
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.6](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.6), 5 days ago) - A HashiCorp Vault cluster management tool
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.13.0](https://github.com/hashicorp/vault/releases/tag/v1.13.0), 2 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
 
