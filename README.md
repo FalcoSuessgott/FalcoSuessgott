@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role (3 days ago)
+- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (3 days ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (6 days ago)
 
@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) ([v0.0.3](https://github.com/FalcoSuessgott/ansdoc/releases/tag/v0.0.3), today) - out-of-the-box markown table documentation for any ansible role
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.14.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.14.0), 1 day ago) - Terraform Vault provider
-- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) ([v0.0.2](https://github.com/FalcoSuessgott/ansdoc/releases/tag/v0.0.2), 3 days ago) - out-of-the-box markown table documentation for any ansible role
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.6](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.6), 6 days ago) - A HashiCorp Vault cluster management tool
 
 #### 🔨 My recent Pull Requests
