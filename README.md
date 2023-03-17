@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role (1 day ago)
+- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (4 days ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (1 week ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [Fix linting](https://github.com/FalcoSuessgott/ansdoc/pull/13) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (today)
 - [feat(envvars): support cli flags via env vars](https://github.com/FalcoSuessgott/ansdoc/pull/10) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (2 days ago)
 - [feat(vars): improve var presentation](https://github.com/FalcoSuessgott/ansdoc/pull/9) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (4 days ago)
-- [chore(repo): add boilercode](https://github.com/FalcoSuessgott/ansdoc/pull/1) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
