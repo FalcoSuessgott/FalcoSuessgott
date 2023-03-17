@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [test](https://github.com/FalcoSuessgott/ansdoc-action/pull/1) on [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) (today)
 - [Repository cleanup](https://github.com/ansible-community/ansible-vault/pull/328) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (today)
 - [Fix linting](https://github.com/FalcoSuessgott/ansdoc/pull/13) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (today)
-- [feat(envvars): support cli flags via env vars](https://github.com/FalcoSuessgott/ansdoc/pull/10) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
