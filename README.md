@@ -6,14 +6,14 @@ Im based in Berlin/Germany.
 #### 👷 Check out what I'm currently working on
 
 - [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role (today)
+- [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) - Github Action for https://github.com/FalcoSuessgott/ansdoc (today)
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (4 days ago)
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (1 week ago)
 
 #### 🌱 My latest projects
 
+- [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) - Github Action for https://github.com/FalcoSuessgott/ansdoc
 - [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool
-- [FalcoSuessgott/terraform-provider-dotfiles](https://github.com/FalcoSuessgott/terraform-provider-dotfiles) - A terraform provider for linking and copying files across the filesystem, useful as a dotfile manager
 
 #### 🔭 Latest releases I've contributed to
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [Repository cleanup](https://github.com/ansible-community/ansible-vault/pull/328) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (today)
 - [Fix linting](https://github.com/FalcoSuessgott/ansdoc/pull/13) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (today)
 - [feat(envvars): support cli flags via env vars](https://github.com/FalcoSuessgott/ansdoc/pull/10) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (2 days ago)
-- [feat(vars): improve var presentation](https://github.com/FalcoSuessgott/ansdoc/pull/9) on [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
