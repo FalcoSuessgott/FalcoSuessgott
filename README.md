@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.04.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.04.01), 2 days ago) - :key: Ansible role for Hashicorp Vault
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.9](https://github.com/hashicorp/vault/releases/tag/v1.11.9), 5 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.04.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.04.01), 3 days ago) - :key: Ansible role for Hashicorp Vault
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.9](https://github.com/hashicorp/vault/releases/tag/v1.11.9), 6 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) ([v1.2.0](https://github.com/FalcoSuessgott/ansdoc-action/releases/tag/v1.2.0), 1 week ago) - Github Action for https://github.com/FalcoSuessgott/ansdoc
 
 #### 🔨 My recent Pull Requests
