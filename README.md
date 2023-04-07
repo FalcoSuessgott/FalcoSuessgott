@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.04.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.04.01), 5 days ago) - :key: Ansible role for Hashicorp Vault
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.04.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.04.01), 6 days ago) - :key: Ansible role for Hashicorp Vault
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.9](https://github.com/hashicorp/vault/releases/tag/v1.11.9), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) ([v1.2.0](https://github.com/FalcoSuessgott/ansdoc-action/releases/tag/v1.2.0), 1 week ago) - Github Action for https://github.com/FalcoSuessgott/ansdoc
 
 #### 🔨 My recent Pull Requests
 
-- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (1 day ago)
-- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (1 day ago)
+- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (2 days ago)
+- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (2 days ago)
 - [feat(bump): bump image version](https://github.com/FalcoSuessgott/ansdoc-action/pull/3) on [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
