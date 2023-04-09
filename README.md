@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (3 days ago)
-- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (3 days ago)
+- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (4 days ago)
+- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (4 days ago)
 - [feat(bump): bump image version](https://github.com/FalcoSuessgott/ansdoc-action/pull/3) on [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
