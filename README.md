@@ -17,13 +17,13 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.5.8](https://github.com/kubermatic/kubeone/releases/tag/v1.5.8), 1 day ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.5.8](https://github.com/kubermatic/kubeone/releases/tag/v1.5.8), 2 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.04.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.04.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.9](https://github.com/hashicorp/vault/releases/tag/v1.11.9), 2 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ipincidr): add ipincidr function](https://github.com/hashicorp/terraform/pull/33037) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (1 day ago)
+- [feat(ipincidr): add ipincidr function](https://github.com/hashicorp/terraform/pull/33037) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (2 days ago)
 - [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (1 week ago)
 - [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (1 week ago)
 
