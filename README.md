@@ -24,7 +24,7 @@ Im based in Berlin/Germany.
 #### 🔨 My recent Pull Requests
 
 - [feat(ipincidr): add ipincidr function](https://github.com/hashicorp/terraform/pull/33037) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (1 week ago)
-- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (2 weeks ago)
-- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (2 weeks ago)
+- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (3 weeks ago)
+- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
