@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.10](https://github.com/hashicorp/vault/releases/tag/v1.11.10), today) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.10](https://github.com/hashicorp/vault/releases/tag/v1.11.10), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.15.0](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.15.0), 1 week ago) - Terraform Vault provider
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.5.8](https://github.com/kubermatic/kubeone/releases/tag/v1.5.8), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 
