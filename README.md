@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.15.2](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.15.2), 1 day ago) - Terraform Vault provider
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.05.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.05.01), 4 days ago) - :key: Ansible role for Hashicorp Vault
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.10](https://github.com/hashicorp/vault/releases/tag/v1.11.10), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.5.8](https://github.com/kubermatic/kubeone/releases/tag/v1.5.8), 3 weeks ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 
 #### 🔨 My recent Pull Requests
 
