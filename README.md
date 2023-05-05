@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.15.2](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.15.2), today) - Terraform Vault provider
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.05.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.05.01), 3 days ago) - :key: Ansible role for Hashicorp Vault
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) ([v3.15.2](https://github.com/hashicorp/terraform-provider-vault/releases/tag/v3.15.2), 1 day ago) - Terraform Vault provider
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.05.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.05.01), 4 days ago) - :key: Ansible role for Hashicorp Vault
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.10](https://github.com/hashicorp/vault/releases/tag/v1.11.10), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ipincidr): add ipincidr function](https://github.com/hashicorp/terraform/pull/33037) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (2 weeks ago)
-- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (4 weeks ago)
-- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (4 weeks ago)
+- [feat(ipincidr): add ipincidr function](https://github.com/hashicorp/terraform/pull/33037) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (3 weeks ago)
+- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (1 month ago)
+- [support host macros](https://github.com/claranet/go-zabbix-api/pull/20) on [claranet/go-zabbix-api](https://github.com/claranet/go-zabbix-api) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
