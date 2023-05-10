@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ldap): update ldap description](https://github.com/hashicorp/terraform-provider-vault/pull/1852) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (today)
 - [feat(keyfile): make keyfile optional](https://github.com/FalcoSuessgott/vops/pull/28) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 day ago)
 - [feat(ipincidr): add ipincidr function](https://github.com/hashicorp/terraform/pull/33037) on [hashicorp/terraform](https://github.com/hashicorp/terraform) (3 weeks ago)
-- [bump go-zabbix, support host macros](https://github.com/claranet/terraform-provider-zabbix/pull/66) on [claranet/terraform-provider-zabbix](https://github.com/claranet/terraform-provider-zabbix) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
