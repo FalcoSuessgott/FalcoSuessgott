@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(lb): support specifiying an external loadbalancer](https://github.com/xunleii/terraform-module-k3s/pull/126) on [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) (today)
 - [feat(k3s_env_vars): introduce k3s_install_env_vars](https://github.com/xunleii/terraform-module-k3s/pull/124) on [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) (2 days ago)
 - [fix(ldap): update ldap description](https://github.com/hashicorp/terraform-provider-vault/pull/1852) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (6 days ago)
-- [feat(keyfile): make keyfile optional](https://github.com/FalcoSuessgott/vops/pull/28) on [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
