@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.11](https://github.com/hashicorp/vault/releases/tag/v1.11.11), today) - A tool for secrets management, encryption as a service, and privileged access management
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.06.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.06.01), 6 days ago) - :key: Ansible role for Hashicorp Vault
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) ([v3.3.0](https://github.com/xunleii/terraform-module-k3s/releases/tag/v3.3.0), 3 weeks ago) - Terraform module to install K3S on all given instances
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) ([v0.0.7](https://github.com/FalcoSuessgott/vops/releases/tag/v0.0.7), 4 weeks ago) - A HashiCorp Vault cluster management tool
 
 #### 🔨 My recent Pull Requests
 
