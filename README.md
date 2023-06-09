@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.11](https://github.com/hashicorp/vault/releases/tag/v1.11.11), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.11.11](https://github.com/hashicorp/vault/releases/tag/v1.11.11), 2 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.06.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.06.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) ([v3.3.0](https://github.com/xunleii/terraform-module-k3s/releases/tag/v3.3.0), 3 weeks ago) - Terraform module to install K3S on all given instances
 
@@ -25,6 +25,6 @@ Im based in Berlin/Germany.
 
 - [feat(lb): support specifiying an external loadbalancer](https://github.com/xunleii/terraform-module-k3s/pull/126) on [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) (3 weeks ago)
 - [feat(k3s_env_vars): introduce k3s_install_env_vars](https://github.com/xunleii/terraform-module-k3s/pull/124) on [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) (3 weeks ago)
-- [fix(ldap): update ldap description](https://github.com/hashicorp/terraform-provider-vault/pull/1852) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (4 weeks ago)
+- [fix(ldap): update ldap description](https://github.com/hashicorp/terraform-provider-vault/pull/1852) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
