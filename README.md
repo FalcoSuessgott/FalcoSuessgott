@@ -25,6 +25,6 @@ Im based in Berlin/Germany.
 
 - [feat(lb): support specifiying an external loadbalancer](https://github.com/xunleii/terraform-module-k3s/pull/126) on [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) (1 month ago)
 - [feat(k3s_env_vars): introduce k3s_install_env_vars](https://github.com/xunleii/terraform-module-k3s/pull/124) on [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) (1 month ago)
-- [fix(ldap): update ldap description](https://github.com/hashicorp/terraform-provider-vault/pull/1852) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (1 month ago)
+- [fix(ldap): update ldap description](https://github.com/hashicorp/terraform-provider-vault/pull/1852) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (2 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
