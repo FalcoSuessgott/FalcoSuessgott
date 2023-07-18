@@ -5,15 +5,15 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (today)
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) - Terraform module to install K3S on all given instances (2 months ago)
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool (2 months ago)
-- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role (3 months ago)
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A wrapper for the HashiCorp Vault CLI (2 months ago)
 
 #### 🌱 My latest projects
 
 - [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) - Github Action for https://github.com/FalcoSuessgott/ansdoc
 - [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A HashiCorp Vault cluster management tool
+- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A wrapper for the HashiCorp Vault CLI
 
 #### 🔭 Latest releases I've contributed to
 
