@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (4 weeks ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 month ago)
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) - Terraform module to install K3S on all given instances (3 months ago)
 - [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A wrapper for the HashiCorp Vault CLI (3 months ago)
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): use goreleaser for binary and container builds](https://github.com/straubt1/tfx/pull/74) on [straubt1/tfx](https://github.com/straubt1/tfx) (today)
-- [feat(v2): release v2](https://github.com/FalcoSuessgott/vkv/pull/152) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
+- [feat(ci): use goreleaser for binary and container builds](https://github.com/straubt1/tfx/pull/74) on [straubt1/tfx](https://github.com/straubt1/tfx) (1 day ago)
+- [feat(v2): release v2](https://github.com/FalcoSuessgott/vkv/pull/152) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
 - [feat(ldap): add backend attribute for specifying existing auth backend](https://github.com/hashicorp/terraform-provider-vault/pull/1951) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
