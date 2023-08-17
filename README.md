@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(docker): use latest TF version and update rovers default TF path](https://github.com/im2nguyen/rover/pull/131) on [im2nguyen/rover](https://github.com/im2nguyen/rover) (today)
 - [feat(ci): use goreleaser for binary and container builds](https://github.com/straubt1/tfx/pull/74) on [straubt1/tfx](https://github.com/straubt1/tfx) (1 day ago)
 - [feat(v2): release v2](https://github.com/FalcoSuessgott/vkv/pull/152) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (6 days ago)
-- [feat(ldap): add backend attribute for specifying existing auth backend](https://github.com/hashicorp/terraform-provider-vault/pull/1951) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
