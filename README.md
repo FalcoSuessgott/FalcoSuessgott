@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.0](https://github.com/kubermatic/kubeone/releases/tag/v1.7.0), 1 day ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.0](https://github.com/kubermatic/kubeone/releases/tag/v1.7.0), 2 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.09.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.09.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) ([v3.3.0](https://github.com/xunleii/terraform-module-k3s/releases/tag/v3.3.0), 3 months ago) - Terraform module to install K3S on all given instances
 
@@ -25,6 +25,6 @@ Im based in Berlin/Germany.
 
 - [feat(docker): use latest TF version and update rovers default TF path](https://github.com/im2nguyen/rover/pull/131) on [im2nguyen/rover](https://github.com/im2nguyen/rover) (3 weeks ago)
 - [feat(ci): use goreleaser for binary and container builds](https://github.com/straubt1/tfx/pull/74) on [straubt1/tfx](https://github.com/straubt1/tfx) (3 weeks ago)
-- [feat(v2): release v2](https://github.com/FalcoSuessgott/vkv/pull/152) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
+- [feat(v2): release v2](https://github.com/FalcoSuessgott/vkv/pull/152) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
