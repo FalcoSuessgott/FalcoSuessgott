@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [suport new Packer plugin installation](https://github.com/YaleUniversity/packer-provisioner-goss/pull/69) on [YaleUniversity/packer-provisioner-goss](https://github.com/YaleUniversity/packer-provisioner-goss) (today)
 - [feat(docker): use latest TF version and update rovers default TF path](https://github.com/im2nguyen/rover/pull/131) on [im2nguyen/rover](https://github.com/im2nguyen/rover) (4 weeks ago)
 - [feat(ci): use goreleaser for binary and container builds](https://github.com/straubt1/tfx/pull/74) on [straubt1/tfx](https://github.com/straubt1/tfx) (1 month ago)
-- [feat(v2): release v2](https://github.com/FalcoSuessgott/vkv/pull/152) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
