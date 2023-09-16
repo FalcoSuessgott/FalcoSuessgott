@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/lint-gitlab-ci](https://github.com/FalcoSuessgott/lint-gitlab-ci) - pre-commit hook that vaildates gitlab-ci.yml (2 days ago)
-- [straubt1/tfx](https://github.com/straubt1/tfx) - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (3 days ago)
+- [FalcoSuessgott/lint-gitlab-ci](https://github.com/FalcoSuessgott/lint-gitlab-ci) - pre-commit hook that vaildates gitlab-ci.yml (3 days ago)
+- [straubt1/tfx](https://github.com/straubt1/tfx) - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (4 days ago)
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [suport new Packer plugin installation](https://github.com/YaleUniversity/packer-provisioner-goss/pull/69) on [YaleUniversity/packer-provisioner-goss](https://github.com/YaleUniversity/packer-provisioner-goss) (today)
-- [feat(docker): use latest TF version and update rovers default TF path](https://github.com/im2nguyen/rover/pull/131) on [im2nguyen/rover](https://github.com/im2nguyen/rover) (4 weeks ago)
+- [suport new Packer plugin installation](https://github.com/YaleUniversity/packer-provisioner-goss/pull/69) on [YaleUniversity/packer-provisioner-goss](https://github.com/YaleUniversity/packer-provisioner-goss) (1 day ago)
+- [feat(docker): use latest TF version and update rovers default TF path](https://github.com/im2nguyen/rover/pull/131) on [im2nguyen/rover](https://github.com/im2nguyen/rover) (1 month ago)
 - [feat(ci): use goreleaser for binary and container builds](https://github.com/straubt1/tfx/pull/74) on [straubt1/tfx](https://github.com/straubt1/tfx) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
