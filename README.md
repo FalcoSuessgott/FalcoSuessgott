@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [add https to base_url](https://github.com/ilijamt/vault-plugin-secrets-gitlab/pull/13) on [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) (today)
+- [README.md updates](https://github.com/ilijamt/vault-plugin-secrets-gitlab/pull/13) on [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) (today)
 - [suport new Packer plugin installation](https://github.com/YaleUniversity/packer-provisioner-goss/pull/69) on [YaleUniversity/packer-provisioner-goss](https://github.com/YaleUniversity/packer-provisioner-goss) (4 days ago)
 - [feat(docker): use latest TF version and update rovers default TF path](https://github.com/im2nguyen/rover/pull/131) on [im2nguyen/rover](https://github.com/im2nguyen/rover) (1 month ago)
 
