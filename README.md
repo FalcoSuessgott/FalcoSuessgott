@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.2.1](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.2.1), 1 day ago) - Vault Plugin for Gitlab Access Tokens
+- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.2.2](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.2.2), today) - Vault Plugin for Gitlab Access Tokens
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.0](https://github.com/kubermatic/kubeone/releases/tag/v1.7.0), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.09.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.09.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
 
