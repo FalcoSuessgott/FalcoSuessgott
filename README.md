@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(pages): mkdocs](https://github.com/FalcoSuessgott/vkv/pull/173) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
-- [fix ci](https://github.com/FalcoSuessgott/vkv/pull/172) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
-- [chore(docs): Fix incorrect base_url in gitlab/config](https://github.com/ilijamt/vault-plugin-secrets-gitlab/pull/13) on [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) (1 week ago)
+- [chore(release): remove docker hub](https://github.com/FalcoSuessgott/vkv/pull/176) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
+- [chore(deps): update deps](https://github.com/FalcoSuessgott/vkv/pull/175) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
+- [fix(pages): fix pages](https://github.com/FalcoSuessgott/vkv/pull/174) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
