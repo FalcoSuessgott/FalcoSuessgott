@@ -5,15 +5,15 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute! (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (3 days ago)
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) - Vault Plugin for Gitlab Access Tokens (1 week ago)
-- [FalcoSuessgott/lint-gitlab-ci](https://github.com/FalcoSuessgott/lint-gitlab-ci) - pre-commit hook that vaildates gitlab-ci.yml (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute!
 - [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) - Github Action for https://github.com/FalcoSuessgott/ansdoc
 - [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role
-- [FalcoSuessgott/vops](https://github.com/FalcoSuessgott/vops) - A wrapper for the HashiCorp Vault CLI
 
 #### 🔭 Latest releases I've contributed to
 
