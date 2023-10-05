@@ -6,8 +6,8 @@ Im based in Berlin/Germany.
 #### 👷 Check out what I'm currently working on
 
 - [stmcginnis/gofish](https://github.com/stmcginnis/gofish) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction. (1 day ago)
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) - A terraform provider for minikube! (3 days ago)
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute! (6 days ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 week ago)
 
 #### 🌱 My latest projects
 
