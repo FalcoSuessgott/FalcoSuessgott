@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.5](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.5), 6 days ago) - A terraform provider for minikube!
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.5](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.5), 1 week ago) - A terraform provider for minikube!
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.10.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.0.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.0.1), 1 week ago) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute!
 
