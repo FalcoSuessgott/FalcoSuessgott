@@ -7,7 +7,7 @@ Im based in Berlin/Germany.
 
 - [stmcginnis/gofish](https://github.com/stmcginnis/gofish) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction. (1 week ago)
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) - A terraform provider for minikube! (1 week ago)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute! (1 week ago)
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute! (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -19,7 +19,7 @@ Im based in Berlin/Germany.
 
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.5](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.5), 1 week ago) - A terraform provider for minikube!
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.10.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.0.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.0.1), 1 week ago) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute!
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.0.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.0.1), 2 weeks ago) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute!
 
 #### 🔨 My recent Pull Requests
 
