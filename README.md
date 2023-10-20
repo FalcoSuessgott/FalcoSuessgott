@@ -7,7 +7,7 @@ Im based in Berlin/Germany.
 
 - [stmcginnis/gofish](https://github.com/stmcginnis/gofish) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction. (2 weeks ago)
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) - A terraform provider for minikube! (2 weeks ago)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute! (2 weeks ago)
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a Vault HA Cluster locally including TLS, Unsealing, HAProxy, Prometheus &amp; Grafana in less than a minute! (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [straubt1/tfx](https://github.com/straubt1/tfx) ([v0.1.2](https://github.com/straubt1/tfx/releases/tag/v0.1.2), 6 days ago) - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise.
+- [straubt1/tfx](https://github.com/straubt1/tfx) ([v0.1.2](https://github.com/straubt1/tfx/releases/tag/v0.1.2), 1 week ago) - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise.
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.5](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.5), 2 weeks ago) - A terraform provider for minikube!
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.10.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.10.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
 
