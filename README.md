@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [docs(gitlab): Add Gitlab CI Examples](https://github.com/straubt1/tfx/pull/96) on [straubt1/tfx](https://github.com/straubt1/tfx) (today)
 - [feat(minikue): introdcue minikube](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/5) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (2 weeks ago)
 - [feat(manageraccount): add oem field](https://github.com/stmcginnis/gofish/pull/280) on [stmcginnis/gofish](https://github.com/stmcginnis/gofish) (3 weeks ago)
-- [fix(apiservernames): use apiservernnames field](https://github.com/scott-the-programmer/terraform-provider-minikube/pull/100) on [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
