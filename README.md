@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [Dependabot/terraform/dev/hashicorp/vault 3.21.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/9) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [feat(ignore-errors): introduce --skip-errors flag](https://github.com/FalcoSuessgott/vkv/pull/182) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(vso): add vso](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/8) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
-- [docs(gitlab): Add Gitlab CI Examples](https://github.com/straubt1/tfx/pull/96) on [straubt1/tfx](https://github.com/straubt1/tfx) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
