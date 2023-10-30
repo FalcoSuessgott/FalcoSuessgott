@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(monitoring): add grafana &#43; prometheus stack](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/13) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [feat(vai): add vault agent injector](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/12) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (3 days ago)
 - [Structure](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/11) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (3 days ago)
-- [feat(cert-manager): add cert-manager](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/10) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
