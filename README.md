@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.4.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.4.1), today) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.11.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.11.01), 2 days ago) - :key: Ansible role for Hashicorp Vault
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.4.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.4.0), 1 week ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.4.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.4.0), 1 week ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
 
 #### 🔨 My recent Pull Requests
