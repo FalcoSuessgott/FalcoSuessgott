@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.2.3](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.2.3), today) - Vault Plugin for Gitlab Access Tokens
+- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.2.4](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.2.4), today) - Vault Plugin for Gitlab Access Tokens
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.4.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.4.1), 3 days ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.11.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.11.01), 5 days ago) - :key: Ansible role for Hashicorp Vault
 
