@@ -7,7 +7,7 @@ Im based in Berlin/Germany.
 
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (3 days ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (6 days ago)
-- [YaleUniversity/packer-provisioner-goss](https://github.com/YaleUniversity/packer-provisioner-goss) - Goss Provisioner for Packer (2 weeks ago)
+- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) - Goss Provisioner for Packer (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.1](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.1), today) - Goss Provisioner for Packer
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.2.4](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.2.4), today) - Vault Plugin for Gitlab Access Tokens
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.4.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.4.1), 3 days ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.11.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.11.01), 5 days ago) - :key: Ansible role for Hashicorp Vault
 
 #### 🔨 My recent Pull Requests
 
