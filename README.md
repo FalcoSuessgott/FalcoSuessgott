@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.6.4](https://github.com/kubermatic/kubeone/releases/tag/v1.6.4), today) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.1](https://github.com/kubermatic/kubeone/releases/tag/v1.7.1), today) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.1](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.1), 4 days ago) - Goss Provisioner for Packer
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.2.4](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.2.4), 4 days ago) - Vault Plugin for Gitlab Access Tokens
 
