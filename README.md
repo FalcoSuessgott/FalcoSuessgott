@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [docs(lab): restructure labs](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/20) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [feat(db): add dynamic db credential mysql lab](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/18) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (5 days ago)
 - [feat(serverprofile): add force param to serverprofile creation](https://github.com/HewlettPackard/terraform-provider-oneview/pull/551) on [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) (1 week ago)
-- [feat(serverprofile): add force param to serverprofile creation](https://github.com/HewlettPackard/oneview-golang/pull/403) on [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
