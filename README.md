@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.15.0](https://github.com/stmcginnis/gofish/releases/tag/v0.15.0), today) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.6.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.6.0), 4 days ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.1](https://github.com/kubermatic/kubeone/releases/tag/v1.7.1), 4 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
-- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.1](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.1), 1 week ago) - Goss Provisioner for Packer
 
 #### 🔨 My recent Pull Requests
 
