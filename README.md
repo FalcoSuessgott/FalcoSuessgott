@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(csi): add csi labs](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/23) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [feat(boundary): add boundary lab](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/21) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (3 days ago)
 - [docs(lab): restructure labs](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/20) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (4 days ago)
-- [feat(db): add dynamic db credential mysql lab](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/18) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
