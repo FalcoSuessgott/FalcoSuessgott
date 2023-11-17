@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 day ago)
 - [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform (2 days ago)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.6.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.6.1), today) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.15.0](https://github.com/stmcginnis/gofish/releases/tag/v0.15.0), 3 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.6.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.6.0), 1 week ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.1](https://github.com/kubermatic/kubeone/releases/tag/v1.7.1), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 
 #### 🔨 My recent Pull Requests
