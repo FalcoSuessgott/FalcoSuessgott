@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (today)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (2 days ago)
-- [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform (4 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine (1 day ago)
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (3 days ago)
+- [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.5.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.5.1), today) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.6.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.6.1), 2 days ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
-- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.15.0](https://github.com/stmcginnis/gofish/releases/tag/v0.15.0), 5 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.5.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.5.1), 1 day ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV-v2 engine
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.6.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.6.1), 3 days ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
+- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.15.0](https://github.com/stmcginnis/gofish/releases/tag/v0.15.0), 6 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(mode): add VKV_MODE env var](https://github.com/FalcoSuessgott/vkv/pull/190) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
-- [docs(cicd): add CI/CD section](https://github.com/FalcoSuessgott/vkv/pull/189) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
-- [feat(login): introduce VKV_LOGIN_COMMAND env var](https://github.com/FalcoSuessgott/vkv/pull/188) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
+- [feat(mode): add VKV_MODE env var](https://github.com/FalcoSuessgott/vkv/pull/190) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
+- [docs(cicd): add CI/CD section](https://github.com/FalcoSuessgott/vkv/pull/189) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
+- [feat(login): introduce VKV_LOGIN_COMMAND env var](https://github.com/FalcoSuessgott/vkv/pull/188) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
