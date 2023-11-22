@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): run make bootstrap in CI](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/24) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [feat(mode): add VKV_MODE env var](https://github.com/FalcoSuessgott/vkv/pull/190) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
 - [docs(cicd): add CI/CD section](https://github.com/FalcoSuessgott/vkv/pull/189) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 days ago)
-- [feat(login): introduce VKV_LOGIN_COMMAND env var](https://github.com/FalcoSuessgott/vkv/pull/188) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
