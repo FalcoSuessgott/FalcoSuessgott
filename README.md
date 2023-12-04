@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.12.01), 2 days ago) - :key: Ansible role for Hashicorp Vault
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.12.01), 3 days ago) - :key: Ansible role for Hashicorp Vault
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) ([v3.4.0](https://github.com/xunleii/terraform-module-k3s/releases/tag/v3.4.0), 1 week ago) - Terraform module to manage a k3s cluster on given machines
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.6](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.6), 1 week ago) - A terraform provider for minikube!
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.6](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.6), 2 weeks ago) - A terraform provider for minikube!
 
 #### 🔨 My recent Pull Requests
 
