@@ -19,11 +19,11 @@ Im based in Berlin/Germany.
 
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2023.12.01](https://github.com/ansible-community/ansible-vault/releases/tag/2023.12.01), 2 weeks ago) - :key: Ansible role for Hashicorp Vault
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) ([v3.4.0](https://github.com/xunleii/terraform-module-k3s/releases/tag/v3.4.0), 3 weeks ago) - Terraform module to manage a k3s cluster on given machines
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.6](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.6), 4 weeks ago) - A terraform provider for minikube!
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.6](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.6), 1 month ago) - A terraform provider for minikube!
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): run make bootstrap in CI](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/24) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (3 weeks ago)
+- [feat(ci): run make bootstrap in CI](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/24) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (4 weeks ago)
 - [feat(mode): add VKV_MODE env var](https://github.com/FalcoSuessgott/vkv/pull/190) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 - [docs(cicd): add CI/CD section](https://github.com/FalcoSuessgott/vkv/pull/189) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
