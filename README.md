@@ -23,7 +23,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(dependabot): add dependabot config](https://github.com/YaleUniversity/packer-plugin-goss/pull/72) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (today)
+- [feat(dependabot): add dependabot config](https://github.com/YaleUniversity/packer-plugin-goss/pull/72) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 day ago)
 - [feat(ci): run make bootstrap in CI](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/24) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (4 weeks ago)
 - [feat(mode): add VKV_MODE env var](https://github.com/FalcoSuessgott/vkv/pull/190) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
