@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.2](https://github.com/kubermatic/kubeone/releases/tag/v1.7.2), today) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2024.01.01](https://github.com/ansible-community/ansible-vault/releases/tag/2024.01.01), 4 days ago) - :key: Ansible role for Hashicorp Vault
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.6.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.6.0), 5 days ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.7](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.7), 1 week ago) - A terraform provider for minikube!
 
 #### 🔨 My recent Pull Requests
 
