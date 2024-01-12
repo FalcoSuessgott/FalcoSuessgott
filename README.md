@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.9.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.9.0), today) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) ([v8.7.0-13](https://github.com/HewlettPackard/terraform-provider-oneview/releases/tag/v8.7.0-13), 2 days ago) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform
 - [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) ([v8.7.0](https://github.com/HewlettPackard/oneview-golang/releases/tag/v8.7.0), 2 days ago) - Golang bindings for OneView api&#39;s
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.2](https://github.com/kubermatic/kubeone/releases/tag/v1.7.2), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 
 #### 🔨 My recent Pull Requests
 
