@@ -17,14 +17,14 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.7.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.7.0), today) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.8.2](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.8.2), today) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) ([v8.7.0-13](https://github.com/HewlettPackard/terraform-provider-oneview/releases/tag/v8.7.0-13), 2 days ago) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform
 - [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) ([v8.7.0](https://github.com/HewlettPackard/oneview-golang/releases/tag/v8.7.0), 2 days ago) - Golang bindings for OneView api&#39;s
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): do not run on main](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/35) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [feat(goreleaser): test build in PR](https://github.com/FalcoSuessgott/vkv/pull/199) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(goreleaser): test build in PR](https://github.com/FalcoSuessgott/vkv/pull/198) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
-- [feat(v1): support kv v1](https://github.com/FalcoSuessgott/vkv/pull/195) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
