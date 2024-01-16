@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): add release build and test stage for PRs](https://github.com/YaleUniversity/packer-plugin-goss/pull/79) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (today)
 - [fix(ci): do not run on main](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/35) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (4 days ago)
 - [feat(goreleaser): test build in PR](https://github.com/FalcoSuessgott/vkv/pull/199) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
-- [feat(goreleaser): test build in PR](https://github.com/FalcoSuessgott/vkv/pull/198) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
