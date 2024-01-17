@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mkdocs): add mkdocs](https://github.com/FalcoSuessgott/golang-cli-template/pull/92) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (today)
 - [feat(boostrap): make us of vault tf provider lazy init](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/40) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [feat(ci): add release build and test stage for PRs](https://github.com/YaleUniversity/packer-plugin-goss/pull/79) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 day ago)
-- [fix(ci): do not run on main](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/35) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
