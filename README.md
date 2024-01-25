@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.6.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.6.1), today) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.10.1](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.10.1), 1 week ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.2](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.2), 1 week ago) - Goss Provisioner for Packer
-- [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) ([v8.7.0-13](https://github.com/HewlettPackard/terraform-provider-oneview/releases/tag/v8.7.0-13), 2 weeks ago) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform
 
 #### 🔨 My recent Pull Requests
 
