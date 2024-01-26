@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(kms): add trousseau as kms plugin](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/42) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
+- [feat(extra_configs): support extra config](https://github.com/scott-the-programmer/terraform-provider-minikube/pull/127) on [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) (today)
 - [fix(snapshot_save): add skip errors flag](https://github.com/FalcoSuessgott/vkv/pull/204) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
-- [feat(release): test release build on PR](https://github.com/YaleUniversity/packer-plugin-goss/pull/80) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 week ago)
-- [feat(mkdocs): add mkdocs](https://github.com/FalcoSuessgott/golang-cli-template/pull/92) on [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
