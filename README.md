@@ -6,8 +6,8 @@ Im based in Berlin/Germany.
 #### 👷 Check out what I'm currently working on
 
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (today)
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) - A terraform provider for minikube! (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 days ago)
-- [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.8](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.8), today) - A terraform provider for minikube!
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.11.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.11.0), today) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.6.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.6.1), 2 days ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.2](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.2), 1 week ago) - Goss Provisioner for Packer
 
 #### 🔨 My recent Pull Requests
 
