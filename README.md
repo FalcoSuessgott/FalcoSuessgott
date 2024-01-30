@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(profiles): remove os.Exit to avoid oneview TF provider from responding](https://github.com/HewlettPackard/oneview-golang/pull/412) on [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) (today)
 - [feat(kms): add trousseau as kms plugin](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/42) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (4 days ago)
 - [feat(extra_configs): support extra config](https://github.com/scott-the-programmer/terraform-provider-minikube/pull/127) on [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) (4 days ago)
-- [fix(snapshot_save): add skip errors flag](https://github.com/FalcoSuessgott/vkv/pull/204) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
