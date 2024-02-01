@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2024.02.01](https://github.com/ansible-community/ansible-vault/releases/tag/2024.02.01), today) - :key: Ansible role for Hashicorp Vault
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.8](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.8), 5 days ago) - A terraform provider for minikube!
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.11.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.11.0), 5 days ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.6.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.6.1), 1 week ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 🔨 My recent Pull Requests
 
