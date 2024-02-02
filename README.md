@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [Trivy](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/9) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [more docs](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/8) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [feat(docs): add more docs](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/7) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
-- [feat(kms_v1): implement kms v1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/6) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
