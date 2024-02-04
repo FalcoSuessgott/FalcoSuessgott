@@ -7,7 +7,7 @@ Im based in Berlin/Germany.
 
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (2 days ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 days ago)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (1 week ago)
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) - A terraform provider for minikube! (1 week ago)
 
 #### 🌱 My latest projects
 
