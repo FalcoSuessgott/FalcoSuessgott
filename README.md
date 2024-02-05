@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.9](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.9), 2 days ago) - A terraform provider for minikube!
+- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.10](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.10), today) - A terraform provider for minikube!
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.1), 3 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2024.02.01](https://github.com/ansible-community/ansible-vault/releases/tag/2024.02.01), 4 days ago) - :key: Ansible role for Hashicorp Vault
 
