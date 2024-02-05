@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (today)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 days ago)
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) - A terraform provider for minikube! (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.12.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.12.0), today) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.10](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.10), today) - A terraform provider for minikube!
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.1), 3 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2024.02.01](https://github.com/ansible-community/ansible-vault/releases/tag/2024.02.01), 4 days ago) - :key: Ansible role for Hashicorp Vault
 
 #### 🔨 My recent Pull Requests
 
