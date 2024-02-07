@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.7](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.7), today) - Goss Provisioner for Packer
+- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.8](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.8), today) - Goss Provisioner for Packer
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.2](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.2), 1 day ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.12.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.12.0), 2 days ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 
