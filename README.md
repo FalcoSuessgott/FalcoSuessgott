@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(proxy): error if no proxy was found](https://github.com/tpretz/terraform-provider-zabbix/pull/38) on [tpretz/terraform-provider-zabbix](https://github.com/tpretz/terraform-provider-zabbix) (today)
 - [feat(build): add container scanning/linting and new Dockerfiles](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/9) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (6 days ago)
 - [more docs](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/8) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (6 days ago)
-- [feat(docs): add more docs](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/7) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
