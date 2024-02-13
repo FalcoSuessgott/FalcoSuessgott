@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [error if server profile template cannot be found](https://github.com/HewlettPackard/terraform-provider-oneview/pull/556) on [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) (today)
 - [fix(proxy): error if no proxy was found](https://github.com/tpretz/terraform-provider-zabbix/pull/38) on [tpretz/terraform-provider-zabbix](https://github.com/tpretz/terraform-provider-zabbix) (5 days ago)
 - [feat(build): add container scanning/linting and new Dockerfiles](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/9) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
-- [more docs](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/8) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
