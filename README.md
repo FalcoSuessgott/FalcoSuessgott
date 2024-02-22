@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (5 days ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 week ago)
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (6 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 weeks ago)
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) - Goss Provisioner for Packer (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@ Im based in Berlin/Germany.
 #### 🔨 My recent Pull Requests
 
 - [error if server profile template cannot be found](https://github.com/HewlettPackard/terraform-provider-oneview/pull/556) on [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) (1 week ago)
-- [fix(proxy): error if no proxy was found](https://github.com/tpretz/terraform-provider-zabbix/pull/38) on [tpretz/terraform-provider-zabbix](https://github.com/tpretz/terraform-provider-zabbix) (1 week ago)
+- [fix(proxy): error if no proxy was found](https://github.com/tpretz/terraform-provider-zabbix/pull/38) on [tpretz/terraform-provider-zabbix](https://github.com/tpretz/terraform-provider-zabbix) (2 weeks ago)
 - [fix(profiles): remove os.Exit to avoid oneview TF provider from responding](https://github.com/HewlettPackard/oneview-golang/pull/412) on [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
