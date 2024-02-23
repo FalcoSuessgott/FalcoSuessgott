@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.0](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.0), today) - Vault Plugin for Gitlab Access Tokens
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.9](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.9), 2 weeks ago) - Goss Provisioner for Packer
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.12.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.12.0), 2 weeks ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.3.10](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.3.10), 2 weeks ago) - A terraform provider for minikube!
 
 #### 🔨 My recent Pull Requests
 
