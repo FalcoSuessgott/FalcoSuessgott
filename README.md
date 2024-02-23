@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [straubt1/tfx](https://github.com/straubt1/tfx) - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (today)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (6 days ago)
+- [straubt1/tfx](https://github.com/straubt1/tfx) - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (1 day ago)
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (1 week ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 weeks ago)
 
 #### 🌱 My latest projects
