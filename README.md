@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2024.03.01](https://github.com/ansible-community/ansible-vault/releases/tag/2024.03.01), today) - :key: Ansible role for Hashicorp Vault
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.0](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.0), 1 week ago) - Vault Plugin for Gitlab Access Tokens
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.9](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.9), 3 weeks ago) - Goss Provisioner for Packer
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.12.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.12.0), 3 weeks ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 
 #### 🔨 My recent Pull Requests
 
