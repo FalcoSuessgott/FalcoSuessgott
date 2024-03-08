@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) ([v8.8.0](https://github.com/HewlettPackard/oneview-golang/releases/tag/v8.8.0), today) - Golang bindings for OneView api&#39;s
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.3](https://github.com/kubermatic/kubeone/releases/tag/v1.7.3), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([2024.03.01](https://github.com/ansible-community/ansible-vault/releases/tag/2024.03.01), 1 week ago) - :key: Ansible role for Hashicorp Vault
-- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.0](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.0), 2 weeks ago) - Vault Plugin for Gitlab Access Tokens
 
 #### 🔨 My recent Pull Requests
 
