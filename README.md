@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(goreleaser): remove ignore section](https://github.com/YaleUniversity/packer-plugin-goss/pull/86) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (today)
 - [feat(terraform): minor terraform tweaks](https://github.com/kubefirst/gitops-template/pull/712) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (1 week ago)
 - [error if server profile template cannot be found](https://github.com/HewlettPackard/terraform-provider-oneview/pull/556) on [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) (1 month ago)
-- [fix(proxy): error if no proxy was found](https://github.com/tpretz/terraform-provider-zabbix/pull/38) on [tpretz/terraform-provider-zabbix](https://github.com/tpretz/terraform-provider-zabbix) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
