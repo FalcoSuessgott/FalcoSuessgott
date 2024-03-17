@@ -5,15 +5,15 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (3 days ago)
 - [straubt1/tfx](https://github.com/straubt1/tfx) - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (3 weeks ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 month ago)
 
 #### 🌱 My latest projects
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 - [FalcoSuessgott/ansdoc-action](https://github.com/FalcoSuessgott/ansdoc-action) - Github Action for https://github.com/FalcoSuessgott/ansdoc
-- [FalcoSuessgott/ansdoc](https://github.com/FalcoSuessgott/ansdoc) - out-of-the-box markown table documentation for any ansible role
 
 #### 🔭 Latest releases I've contributed to
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(docker): use fqdn path for entrypoint](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/27) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [fix(goreleaser): remove ignore section](https://github.com/YaleUniversity/packer-plugin-goss/pull/86) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (3 days ago)
 - [feat(terraform): various terraform tweaks](https://github.com/kubefirst/gitops-template/pull/712) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (1 week ago)
-- [error if server profile template cannot be found](https://github.com/HewlettPackard/terraform-provider-oneview/pull/556) on [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
