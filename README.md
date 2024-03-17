@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.3](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.3), today) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) ([v8.8.0-13](https://github.com/HewlettPackard/terraform-provider-oneview/releases/tag/v8.8.0-13), 1 week ago) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform
 - [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) ([v8.8.0](https://github.com/HewlettPackard/oneview-golang/releases/tag/v8.8.0), 1 week ago) - Golang bindings for OneView api&#39;s
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.3](https://github.com/kubermatic/kubeone/releases/tag/v1.7.3), 2 weeks ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 
 #### 🔨 My recent Pull Requests
 
