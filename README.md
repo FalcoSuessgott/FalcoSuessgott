@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(kms): use vault-kms-plugin](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/58) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (today)
 - [fix(docker): use fqdn path for entrypoint](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/27) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
 - [fix(goreleaser): remove ignore section](https://github.com/YaleUniversity/packer-plugin-goss/pull/86) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (4 days ago)
-- [feat(terraform): various terraform tweaks](https://github.com/kubefirst/gitops-template/pull/712) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
