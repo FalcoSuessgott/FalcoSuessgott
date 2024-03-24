@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [e2e testing](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/33) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [feat(kms): use vault-kms-plugin](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/58) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (6 days ago)
 - [fix(docker): use fqdn path for entrypoint](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/27) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
-- [fix(goreleaser): remove ignore section](https://github.com/YaleUniversity/packer-plugin-goss/pull/86) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
