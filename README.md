@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/comments](https://github.com/FalcoSuessgott/comments) -  (today)
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users (today)
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (today)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 day ago)
+- [FalcoSuessgott/comments](https://github.com/FalcoSuessgott/comments) -  (today)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@ Im based in Berlin/Germany.
 #### 🔭 Latest releases I've contributed to
 
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.5](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.5), 2 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.3](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.3), 1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.6.2](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.6.2), 1 week ago) - vkv enables you to list, compare, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) ([v1.13.0](https://github.com/FalcoSuessgott/hashicorp-vault-playground/releases/tag/v1.13.0), 1 week ago) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 
 #### 🔨 My recent Pull Requests
 
