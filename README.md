@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users (1 day ago)
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (2 days ago)
-- [FalcoSuessgott/comments](https://github.com/FalcoSuessgott/comments) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [e2e testing](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/33) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (6 days ago)
-- [feat(kms): use vault-kms-plugin](https://github.com/FalcoSuessgott/hashicorp-vault-playground/pull/58) on [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) (1 week ago)
-- [fix(docker): use fqdn path for entrypoint](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/27) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
+- [feat(e2e): add kms v1 e2e job](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/39) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
+- [chore(docs): add resource limits](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/38) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
+- [Docs2](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/37) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
