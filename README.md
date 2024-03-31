@@ -11,7 +11,7 @@ Im based in Berlin/Germany.
 
 #### 🌱 My latest projects
 
-- [FalcoSuessgott/comments](https://github.com/FalcoSuessgott/comments) - 
+- [FalcoSuessgott/comments](https://github.com/FalcoSuessgott/comments) - comments for morelly.de using https://github.com/gitalk/gitalk
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube!
 
@@ -21,10 +21,14 @@ Im based in Berlin/Germany.
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.5](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.5), 5 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.3](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.3), 1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 
+#### 📜 My recent blog posts
+
+- [Git: GPG sign multiple previous commits](https://morelly.de/post/20240328_git_gpg_sign_commits/) (4 days ago)
+
 #### 🔨 My recent Pull Requests
 
+- [fix(analytics): support GA4](https://github.com/olOwOlo/hugo-theme-even/pull/432) on [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) (today)
 - [fix(ci): fix CI job triggers](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/40) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [feat(e2e): add kms v1 e2e job](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/39) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
-- [chore(docs): add resource limits](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/38) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
