@@ -23,8 +23,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): fix CI job triggers](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/40) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [feat(e2e): add kms v1 e2e job](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/39) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
 - [chore(docs): add resource limits](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/38) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
-- [Docs2](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/37) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
