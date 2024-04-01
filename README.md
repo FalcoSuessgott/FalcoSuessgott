@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) - Goss Provisioner for Packer (today)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 day ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users (3 days ago)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.10](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.10), today) - Goss Provisioner for Packer
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.1](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.1), 2 days ago) - Vault Plugin for Gitlab Access Tokens
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.5](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.5), 6 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.3](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.3), 1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 
 #### 📜 My recent blog posts
 
