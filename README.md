@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(plugin): add plugin unit tests](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/41) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [fix(analytics): support GA4](https://github.com/olOwOlo/hugo-theme-even/pull/432) on [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) (2 days ago)
 - [fix(ci): fix CI job triggers](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/40) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (2 days ago)
-- [feat(e2e): add kms v1 e2e job](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/39) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
