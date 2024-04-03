@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.2](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.2), today) - Vault Plugin for Gitlab Access Tokens
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.10](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.10), 2 days ago) - Goss Provisioner for Packer
-- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.1](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.1), 4 days ago) - Vault Plugin for Gitlab Access Tokens
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.5](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.5), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
