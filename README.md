@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(tffmt): fix CI and run terraform fmt](https://github.com/kubefirst/gitops-template/pull/744) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (today)
 - [feat(generic): support legacy kv engine of type generic](https://github.com/FalcoSuessgott/vkv/pull/233) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(tests): test cmd package](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/48) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
-- [feat(plugin): add plugin unit tests](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/41) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
