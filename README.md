@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.3](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.3), today) - Vault Plugin for Gitlab Access Tokens
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.6.3](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.6.3), 1 day ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.3.2](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.3.2), 1 week ago) - Vault Plugin for Gitlab Access Tokens
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.10](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.10), 1 week ago) - Goss Provisioner for Packer
 
 #### 📜 My recent blog posts
