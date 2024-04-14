@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(envs): use utils.ParseEnvs](https://github.com/FalcoSuessgott/vkv/pull/238) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(find): refactor find and add searching secrets functionality](https://github.com/FalcoSuessgott/vkv/pull/237) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [fix(tffmt): fix CI and run terraform fmt](https://github.com/kubefirst/gitops-template/pull/744) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (2 days ago)
-- [feat(generic): support legacy kv engine of type generic](https://github.com/FalcoSuessgott/vkv/pull/233) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
