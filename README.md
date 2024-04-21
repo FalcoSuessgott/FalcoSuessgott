@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.5](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.5), 1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.6](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.6), today) - a template of gitops infrastucture for consumption by kubefirst users
 - [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.16.1](https://github.com/stmcginnis/gofish/releases/tag/v0.16.1), 2 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.6](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.6), 5 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
