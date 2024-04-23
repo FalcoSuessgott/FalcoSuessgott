@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users (4 days ago)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (5 days ago)
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (5 days ago)
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users (5 days ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (6 days ago)
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.6](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.6), 1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
-- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.16.1](https://github.com/stmcginnis/gofish/releases/tag/v0.16.1), 3 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.6](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.6), 6 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.6](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.6), 2 days ago) - a template of gitops infrastucture for consumption by kubefirst users
+- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.16.1](https://github.com/stmcginnis/gofish/releases/tag/v0.16.1), 4 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.6](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.6), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
 
