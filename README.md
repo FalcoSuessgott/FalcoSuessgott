@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users (today)
-- [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app (today)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 days ago)
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users (1 day ago)
+- [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app (1 day ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.7](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.7), today) - a template of gitops infrastucture for consumption by kubefirst users
-- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.17.0](https://github.com/stmcginnis/gofish/releases/tag/v0.17.0), 3 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.7](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.7), 1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
+- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.17.0](https://github.com/stmcginnis/gofish/releases/tag/v0.17.0), 4 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.6](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.6), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(k3d): refactor suggestion](https://github.com/kubefirst/kubefirst/pull/2165) on [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) (2 days ago)
-- [ fix(k3d-github): fix typo in oidc client module call ](https://github.com/kubefirst/gitops-template/pull/752) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (2 days ago)
+- [feat(k3d): refactor suggestion](https://github.com/kubefirst/kubefirst/pull/2165) on [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) (3 days ago)
+- [ fix(k3d-github): fix typo in oidc client module call ](https://github.com/kubefirst/gitops-template/pull/752) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (3 days ago)
 - [feat(envs): use utils.ParseEnvs](https://github.com/FalcoSuessgott/vkv/pull/238) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
