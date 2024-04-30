@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(tests): improve tests and CLI reference docs](https://github.com/FalcoSuessgott/vkv/pull/243) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(k3d): refactor suggestion](https://github.com/kubefirst/kubefirst/pull/2165) on [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) (4 days ago)
 - [ fix(k3d-github): fix typo in oidc client module call ](https://github.com/kubefirst/gitops-template/pull/752) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (4 days ago)
-- [feat(envs): use utils.ParseEnvs](https://github.com/FalcoSuessgott/vkv/pull/238) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
