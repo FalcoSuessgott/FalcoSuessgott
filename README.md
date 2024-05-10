@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (today)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 day ago)
+- [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (1 day ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 day ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ Im based in Berlin/Germany.
 #### 🔨 My recent Pull Requests
 
 - [feat(tests): improve tests and CLI reference docs](https://github.com/FalcoSuessgott/vkv/pull/243) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [feat(k3d): refactor suggestion](https://github.com/kubefirst/kubefirst/pull/2165) on [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) (1 week ago)
-- [ fix(k3d-github): fix typo in oidc client module call ](https://github.com/kubefirst/gitops-template/pull/752) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (1 week ago)
+- [feat(k3d): refactor suggestion](https://github.com/kubefirst/kubefirst/pull/2165) on [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) (2 weeks ago)
+- [ fix(k3d-github): fix typo in oidc client module call ](https://github.com/kubefirst/gitops-template/pull/752) on [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
