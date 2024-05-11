@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(export): preserve special characters](https://github.com/FalcoSuessgott/vkv/pull/257) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [fix(export): remove delimiter](https://github.com/FalcoSuessgott/vkv/pull/252) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [feat(export): better UI](https://github.com/FalcoSuessgott/vkv/pull/250) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
-- [feat(tests): improve tests and CLI reference docs](https://github.com/FalcoSuessgott/vkv/pull/243) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
