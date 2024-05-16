@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.18.0](https://github.com/stmcginnis/gofish/releases/tag/v0.18.0), today) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.8.0](https://github.com/kubermatic/kubeone/releases/tag/v1.8.0), 2 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.7.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.7.0), 6 days ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) ([v8.9.0-13](https://github.com/HewlettPackard/terraform-provider-oneview/releases/tag/v8.9.0-13), 2 weeks ago) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform
 
 #### 📜 My recent blog posts
 
