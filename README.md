@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 day ago)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 days ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (4 days ago)
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [Support exporting all versions](https://github.com/FalcoSuessgott/vkv/pull/265) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
+- [Support exporting all versions](https://github.com/FalcoSuessgott/vkv/pull/265) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 day ago)
 - [feat(printer): introduce printer interface](https://github.com/FalcoSuessgott/vkv/pull/258) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 - [fix(export): preserve special characters](https://github.com/FalcoSuessgott/vkv/pull/257) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
