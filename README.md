@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(export): add --export-upper and --export-include-path options](https://github.com/FalcoSuessgott/vkv/pull/271) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [Curl wget download](https://github.com/YaleUniversity/packer-plugin-goss/pull/96) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (2 days ago)
 - [fix(goreleaser): use --clean instead of --rm-dist](https://github.com/YaleUniversity/packer-plugin-goss/pull/93) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (6 days ago)
-- [Support exporting all versions](https://github.com/FalcoSuessgott/vkv/pull/265) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
