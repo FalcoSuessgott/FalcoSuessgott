@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.7.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.7.1), today) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.10](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.10), 1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.11](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.11), 1 week ago) - Goss Provisioner for Packer
-- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.18.0](https://github.com/stmcginnis/gofish/releases/tag/v0.18.0), 1 month ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 
 #### 📜 My recent blog posts
 
