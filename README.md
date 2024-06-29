@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [Adds output_file as a attribute to redirect goss output to the specified file](https://github.com/YaleUniversity/packer-plugin-goss/pull/100) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (today)
 - [bump go version to 1.21](https://github.com/YaleUniversity/packer-plugin-goss/pull/99) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 week ago)
 - [feat(import): support engine path](https://github.com/FalcoSuessgott/vkv/pull/280) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [feat(import): support engine path](https://github.com/FalcoSuessgott/vkv/pull/277) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
