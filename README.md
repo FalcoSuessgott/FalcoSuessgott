@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.8.1](https://github.com/kubermatic/kubeone/releases/tag/v1.8.1), today) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.0), 3 days ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.12](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.12), 1 week ago) - Goss Provisioner for Packer
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.10](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.10), 3 weeks ago) - a template of gitops infrastucture for consumption by kubefirst users
 
 #### 📜 My recent blog posts
 
