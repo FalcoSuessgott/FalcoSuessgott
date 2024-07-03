@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) ([v9.0.0-13](https://github.com/HewlettPackard/terraform-provider-oneview/releases/tag/v9.0.0-13), today) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform
 - [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) ([v9.0.0](https://github.com/HewlettPackard/oneview-golang/releases/tag/v9.0.0), today) - Golang bindings for OneView api&#39;s
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.8.1](https://github.com/kubermatic/kubeone/releases/tag/v1.8.1), 2 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.0), 5 days ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
 
