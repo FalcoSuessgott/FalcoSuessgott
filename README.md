@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor](https://github.com/YaleUniversity/packer-plugin-goss/pull/101) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (today)
 - [docs: fix typo in configuration](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/75) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (3 days ago)
 - [Adds output_file as a attribute to redirect goss output to the specified file](https://github.com/YaleUniversity/packer-plugin-goss/pull/100) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 week ago)
-- [bump go version to 1.21](https://github.com/YaleUniversity/packer-plugin-goss/pull/99) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
