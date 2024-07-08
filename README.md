@@ -27,7 +27,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor](https://github.com/YaleUniversity/packer-plugin-goss/pull/101) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 day ago)
+- [plugin refactor for v4](https://github.com/YaleUniversity/packer-plugin-goss/pull/101) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 day ago)
 - [docs: fix typo in configuration](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/75) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (4 days ago)
 - [Adds output_file as a attribute to redirect goss output to the specified file](https://github.com/YaleUniversity/packer-plugin-goss/pull/100) on [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) (1 week ago)
 
