@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.4.0](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.4.0), today) - Vault Plugin for Gitlab Access Tokens
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.12](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.12), 1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.0.7](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.0.7), 3 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [stmcginnis/gofish](https://github.com/stmcginnis/gofish) ([v0.19.0](https://github.com/stmcginnis/gofish/releases/tag/v0.19.0), 6 days ago) - Gofish is a Golang client library for DMTF Redfish and SNIA Swordfish interaction.
 
 #### 📜 My recent blog posts
 
