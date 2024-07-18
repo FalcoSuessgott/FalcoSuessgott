@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [chore(docs): add more integration snippets](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/90) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [chore(k8s): remove kubernetes auth](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/88) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 day ago)
 - [feat(auth): support approle](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/87) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (2 days ago)
-- [fix(log): dont output vault token](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/86) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
