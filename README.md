@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.13](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.13), today) - a template of gitops infrastucture for consumption by kubefirst users
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.1.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.1.0), 1 day ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.4.0](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.4.0), 2 days ago) - Vault Plugin for Gitlab Access Tokens
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.12](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.12), 3 days ago) - a template of gitops infrastucture for consumption by kubefirst users
 
 #### 📜 My recent blog posts
 
