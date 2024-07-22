@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.4.1](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.4.1), today) - Vault Plugin for Gitlab Access Tokens
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.4.0](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.4.0), 2 days ago) - A terraform provider for minikube!
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.1), 2 days ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.1.1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.1.1), 3 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
 
