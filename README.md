@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (4 days ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (5 days ago)
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (2 weeks ago)
 
@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.2.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.2.0), today) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.4.1](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.4.1), 3 days ago) - Vault Plugin for Gitlab Access Tokens
 - [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.4.0](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.4.0), 5 days ago) - A terraform provider for minikube!
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.1), 5 days ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
 
@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(releaser): create SBOMs and sign artifacts](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/98) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [feat(tests): more tests](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/96) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (4 days ago)
 - [feat(tests): test NewPlugin()](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/95) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (4 days ago)
-- [fix(import): test importing with existing secrets](https://github.com/FalcoSuessgott/vkv/pull/286) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
