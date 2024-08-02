@@ -5,7 +5,7 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 days ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 week ago)
 - [FalcoSuessgott/hashicorp-vault-playground](https://github.com/FalcoSuessgott/hashicorp-vault-playground) - Bootstrap a local Vault HA Cluster with many useful learning labs in under a minute using only terraform, docker &amp; minikube! (3 weeks ago)
 
@@ -27,7 +27,7 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [Support configuration via env vars](https://github.com/RoseSecurity/Terramaid/pull/31) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (today)
+- [Support configuration via env vars](https://github.com/RoseSecurity/Terramaid/pull/31) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (1 day ago)
 - [feat(releaser): create SBOMs and sign artifacts](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/98) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
 - [feat(tests): more tests](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/96) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
 
