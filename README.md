@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.7.2](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.7.2), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.8.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.8.0), today) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.2.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.2.0), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.4.1](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.4.1), 1 week ago) - Vault Plugin for Gitlab Access Tokens
 
