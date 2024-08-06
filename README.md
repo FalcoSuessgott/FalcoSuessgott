@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations (3 days ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (6 days ago)
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations (4 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 week ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 week ago)
 
 #### 🌱 My latest projects
@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.8.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.8.0), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.8.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.8.0), 2 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.2.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.2.0), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [ilijamt/vault-plugin-secrets-gitlab](https://github.com/ilijamt/vault-plugin-secrets-gitlab) ([v0.4.1](https://github.com/ilijamt/vault-plugin-secrets-gitlab/releases/tag/v0.4.1), 2 weeks ago) - Vault Plugin for Gitlab Access Tokens
 
@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(mkdocs): add mkdocs as documentation renderer](https://github.com/RoseSecurity/Terramaid/pull/36) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (today)
-- [Support configuration via env vars](https://github.com/RoseSecurity/Terramaid/pull/31) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (4 days ago)
+- [feat(mkdocs): add mkdocs as documentation renderer](https://github.com/RoseSecurity/Terramaid/pull/36) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (1 day ago)
+- [Support configuration via env vars](https://github.com/RoseSecurity/Terramaid/pull/31) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (5 days ago)
 - [feat(releaser): create SBOMs and sign artifacts](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/98) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
