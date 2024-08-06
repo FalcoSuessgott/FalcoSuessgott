@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix link to clearroute banner](https://github.com/clear-route/.github/pull/2) on [clear-route/.github](https://github.com/clear-route/.github) (today)
 - [feat(mkdocs): add mkdocs as documentation renderer](https://github.com/RoseSecurity/Terramaid/pull/36) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (1 day ago)
 - [Support configuration via env vars](https://github.com/RoseSecurity/Terramaid/pull/31) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (5 days ago)
-- [feat(releaser): create SBOMs and sign artifacts](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/98) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
