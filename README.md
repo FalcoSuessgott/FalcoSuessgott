@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.7.5](https://github.com/kubermatic/kubeone/releases/tag/v1.7.5), today) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16), today) - a template of gitops infrastucture for consumption by kubefirst users
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.8.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.8.0), 4 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.2.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.2.0), 2 weeks ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
 
