@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.8.2](https://github.com/kubermatic/kubeone/releases/tag/v1.8.2), 2 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16), 2 days ago) - a template of gitops infrastucture for consumption by kubefirst users
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.8.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.8.0), 6 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.8.2](https://github.com/kubermatic/kubeone/releases/tag/v1.8.2), 3 days ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16), 3 days ago) - a template of gitops infrastucture for consumption by kubefirst users
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.8.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.8.0), 1 week ago) - A utility for generating Mermaid diagrams from Terraform configurations
 
 #### 📜 My recent blog posts
 
@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
-- [fix link to clearroute banner](https://github.com/clear-route/.github/pull/2) on [clear-route/.github](https://github.com/clear-route/.github) (4 days ago)
-- [feat(mkdocs): add mkdocs as documentation renderer](https://github.com/RoseSecurity/Terramaid/pull/36) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (5 days ago)
+- [fix link to clearroute banner](https://github.com/clear-route/.github/pull/2) on [clear-route/.github](https://github.com/clear-route/.github) (5 days ago)
+- [feat(mkdocs): add mkdocs as documentation renderer](https://github.com/RoseSecurity/Terramaid/pull/36) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (6 days ago)
 - [Support configuration via env vars](https://github.com/RoseSecurity/Terramaid/pull/31) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
