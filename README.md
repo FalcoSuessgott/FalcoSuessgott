@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(docker_container): only wait when healthcheck defined](https://github.com/kreuzwerker/terraform-provider-docker/pull/641) on [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) (today)
 - [fix link to clearroute banner](https://github.com/clear-route/.github/pull/2) on [clear-route/.github](https://github.com/clear-route/.github) (1 week ago)
 - [feat(mkdocs): add mkdocs as documentation renderer](https://github.com/RoseSecurity/Terramaid/pull/36) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (1 week ago)
-- [Support configuration via env vars](https://github.com/RoseSecurity/Terramaid/pull/31) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
