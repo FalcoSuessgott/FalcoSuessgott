@@ -5,9 +5,9 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 days ago)
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations (2 weeks ago)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(cosign): use passwd and key via github action secrets](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/104) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [fix(docker_container): only wait when healthcheck defined](https://github.com/kreuzwerker/terraform-provider-docker/pull/641) on [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) (today)
 - [fix link to clearroute banner](https://github.com/clear-route/.github/pull/2) on [clear-route/.github](https://github.com/clear-route/.github) (1 week ago)
-- [feat(mkdocs): add mkdocs as documentation renderer](https://github.com/RoseSecurity/Terramaid/pull/36) on [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
