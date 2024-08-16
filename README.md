@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.17](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.17), today) - a template of gitops infrastucture for consumption by kubefirst users
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.9.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.9.0), 4 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.8.2](https://github.com/kubermatic/kubeone/releases/tag/v1.8.2), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16), 1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 
 #### 📜 My recent blog posts
 
