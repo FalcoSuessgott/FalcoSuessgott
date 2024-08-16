@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 days ago)
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations (1 week ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 days ago)
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations (2 weeks ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.9.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.9.0), 3 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.9.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.9.0), 4 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) ([v1.8.2](https://github.com/kubermatic/kubeone/releases/tag/v1.8.2), 1 week ago) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16), 1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 
