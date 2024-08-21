@@ -27,8 +27,8 @@ Im based in Berlin/Germany.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(healthchecks): introduce healtchecks and simple metrics](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/108) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [Cosign docs](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/107) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (2 days ago)
 - [chore(docs): improve quickstart guide](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/105) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (2 days ago)
-- [fix(cosign): use passwd and key via github action secrets](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/104) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
