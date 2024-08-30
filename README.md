@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.5.3](https://github.com/konstructio/gitops-template/releases/tag/v2.5.3), 1 day ago) - upstream template for your open source gitops repository
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.5.9](https://github.com/konstructio/gitops-template/releases/tag/v2.5.9), today) - upstream template for your open source gitops repository
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.11.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.11.0), 2 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.2.2](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.2.2), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
