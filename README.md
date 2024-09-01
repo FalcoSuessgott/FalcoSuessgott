@@ -5,8 +5,8 @@ Im based in Berlin/Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 day ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 day ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (2 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 days ago)
 - [clear-route/.github](https://github.com/clear-route/.github) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -17,8 +17,8 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.5.10](https://github.com/konstructio/gitops-template/releases/tag/v2.5.10), 1 day ago) - upstream template for your open source gitops repository
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.11.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.11.0), 3 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.5.11](https://github.com/konstructio/gitops-template/releases/tag/v2.5.11), 1 day ago) - upstream template for your open source gitops repository
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.11.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.11.0), 4 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.2.2](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.2.2), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
