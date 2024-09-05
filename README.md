@@ -17,9 +17,9 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) ([v9.1.0](https://github.com/HewlettPackard/oneview-golang/releases/tag/v9.1.0), today) - Golang bindings for OneView api&#39;s
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v1.12.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v1.12.0), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.5.11](https://github.com/konstructio/gitops-template/releases/tag/v2.5.11), 5 days ago) - upstream template for your open source gitops repository
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v0.2.2](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v0.2.2), 2 weeks ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
 
