@@ -17,7 +17,7 @@ Im based in Berlin/Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.0](https://github.com/konstructio/gitops-template/releases/tag/v2.6.0), 4 days ago) - upstream template for your open source gitops repository
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1), today) - upstream template for your open source gitops repository
 - [HewlettPackard/terraform-provider-oneview](https://github.com/HewlettPackard/terraform-provider-oneview) ([v9.1.0-13](https://github.com/HewlettPackard/terraform-provider-oneview/releases/tag/v9.1.0-13), 4 days ago) - Automates the provisioning of physical infrastructure from a private cloud using templates from HPE OneView with Terraform
 - [HewlettPackard/oneview-golang](https://github.com/HewlettPackard/oneview-golang) ([v9.1.0](https://github.com/HewlettPackard/oneview-golang/releases/tag/v9.1.0), 4 days ago) - Golang bindings for OneView api&#39;s
 
