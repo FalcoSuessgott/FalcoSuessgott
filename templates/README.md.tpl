@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Im Tom, DevOps Engineer in Berlin and interested in Linux, Go, Kubernetes and Open Source.
-Im based in Berlin/Germany.
+Im Tom, DevOps Engineer from Berlin and currently living in Sydney/Australia.
+
+I work as a Quality Cloud Engineer for [ClearRoute](https://clearroute.io).
+
+Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible, Git.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
