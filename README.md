@@ -21,8 +21,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 🔭 Latest releases I've contributed to
 
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.1), 2 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [scott-the-programmer/terraform-provider-minikube](https://github.com/scott-the-programmer/terraform-provider-minikube) ([v0.4.3](https://github.com/scott-the-programmer/terraform-provider-minikube/releases/tag/v0.4.3), 4 days ago) - A terraform provider for minikube!
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.0.6](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.0.6), 1 week ago) - A dead simple Markdown templating tool
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.4](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.4), 2 weeks ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
 
