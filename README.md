@@ -10,7 +10,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 week ago)
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (2 weeks ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 weeks ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.5](https://github.com/konstructio/gitops-template/releases/tag/v2.7.5), 3 days ago) - upstream template for your open source gitops repository
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.1), 5 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.5](https://github.com/konstructio/gitops-template/releases/tag/v2.7.5), 4 days ago) - upstream template for your open source gitops repository
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.1), 6 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.0.6](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.0.6), 2 weeks ago) - A dead simple Markdown templating tool
 
 #### 📜 My recent blog posts
@@ -32,6 +32,6 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [feat(socket): allow overwriting stale sockets](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/135) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (2 weeks ago)
 - [fix(mkdocs): fix mkdocs GHA](https://github.com/FalcoSuessgott/vkv/pull/307) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
-- [fix(token): implement vault token precendence logic](https://github.com/FalcoSuessgott/vkv/pull/306) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
+- [fix(token): implement vault token precendence logic](https://github.com/FalcoSuessgott/vkv/pull/306) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
