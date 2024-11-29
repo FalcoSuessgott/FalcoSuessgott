@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.7](https://github.com/konstructio/gitops-template/releases/tag/v2.7.7), today) - upstream template for your open source gitops repository
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.7](https://github.com/konstructio/gitops-template/releases/tag/v2.7.7), 1 day ago) - upstream template for your open source gitops repository
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.1](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.1), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.0.6](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.0.6), 2 weeks ago) - A dead simple Markdown templating tool
 
