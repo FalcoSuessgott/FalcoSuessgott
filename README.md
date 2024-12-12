@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9), today) - upstream template for your open source gitops repository
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.13.0](https://github.com/go-co-op/gocron/releases/tag/v2.13.0), today) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.8](https://github.com/konstructio/gitops-template/releases/tag/v2.7.8), 1 day ago) - upstream template for your open source gitops repository
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.0.3](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.0.3), 6 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 
 #### 📜 My recent blog posts
