@@ -9,7 +9,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 👷 Check out what I'm currently working on
 
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (today)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (today)
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 day ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.0.0](https://github.com/ansible-community/ansible-vault/releases/tag/v3.0.0), today) - :key: Ansible role for Hashicorp Vault
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9), today) - upstream template for your open source gitops repository
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.13.0](https://github.com/go-co-op/gocron/releases/tag/v2.13.0), today) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.0.0](https://github.com/ansible-community/ansible-vault/releases/tag/v3.0.0), 1 day ago) - :key: Ansible role for Hashicorp Vault
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9), 1 day ago) - upstream template for your open source gitops repository
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.13.0](https://github.com/go-co-op/gocron/releases/tag/v2.13.0), 1 day ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
 #### 📜 My recent blog posts
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(GHA): add commitlint and semrel](https://github.com/ansible-community/ansible-vault/pull/362) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (today)
+- [fix(semrel): fix branch](https://github.com/ansible-community/ansible-vault/pull/363) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (today)
+- [feat(GHA): add commitlint and semrel](https://github.com/ansible-community/ansible-vault/pull/362) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (1 day ago)
 - [feat(socket): allow overwriting stale sockets](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/135) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 month ago)
-- [fix(mkdocs): fix mkdocs GHA](https://github.com/FalcoSuessgott/vkv/pull/307) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
