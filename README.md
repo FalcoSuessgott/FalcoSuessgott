@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [fix(semrel): fix branch](https://github.com/ansible-community/ansible-vault/pull/364) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (today)
 - [fix(semrel): fix branch](https://github.com/ansible-community/ansible-vault/pull/363) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (today)
 - [feat(GHA): add commitlint and semrel](https://github.com/ansible-community/ansible-vault/pull/362) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (1 day ago)
-- [feat(socket): allow overwriting stale sockets](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/135) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
