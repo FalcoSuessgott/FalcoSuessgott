@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (1 week ago)
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (2 weeks ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 weeks ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 month ago)
 
@@ -31,7 +31,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 🔨 My recent Pull Requests
 
 - [tmp](https://github.com/FalcoSuessgott/mdtmpl/pull/18) on [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) (1 week ago)
-- [fix(smerel): bump changelog to 8.0.0](https://github.com/ansible-community/ansible-vault/pull/365) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (1 week ago)
+- [fix(smerel): bump changelog to 8.0.0](https://github.com/ansible-community/ansible-vault/pull/365) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (2 weeks ago)
 - [fix(semrel): fix branch](https://github.com/ansible-community/ansible-vault/pull/364) on [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
