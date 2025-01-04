@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (5 days ago)
+- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (6 days ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (2 weeks ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 weeks ago)
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.14.2-rc1](https://github.com/go-co-op/gocron/releases/tag/v2.14.2-rc1), today) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.1.0](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.1.0), 5 days ago) - A dead simple Markdown templating tool
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.14.2-rc1](https://github.com/go-co-op/gocron/releases/tag/v2.14.2-rc1), 1 day ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.1.0](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.1.0), 6 days ago) - A dead simple Markdown templating tool
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.0.0](https://github.com/ansible-community/ansible-vault/releases/tag/v3.0.0), 3 weeks ago) - :key: Ansible role for Hashicorp Vault
 
 #### 📜 My recent blog posts
