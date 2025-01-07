@@ -9,8 +9,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 👷 Check out what I'm currently working on
 
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (1 day ago)
+- [clear-route/blog-post-vault-zero-to-hero](https://github.com/clear-route/blog-post-vault-zero-to-hero) -  (1 day ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (3 weeks ago)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 weeks ago)
 
 #### 🌱 My latest projects
 
