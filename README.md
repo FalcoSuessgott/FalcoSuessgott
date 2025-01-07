@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(CI): add CIs](https://github.com/clear-route/blog-post-vault-zero-to-hero/pull/3) on [clear-route/blog-post-vault-zero-to-hero](https://github.com/clear-route/blog-post-vault-zero-to-hero) (today)
 - [feat(sprout): migrate to sprout](https://github.com/FalcoSuessgott/mdtmpl/pull/31) on [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) (1 day ago)
 - [feat(hook): add hook tmpl func](https://github.com/FalcoSuessgott/mdtmpl/pull/28) on [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) (2 days ago)
-- [feat(test): proper testing and medics](https://github.com/FalcoSuessgott/mdtmpl/pull/18) on [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
