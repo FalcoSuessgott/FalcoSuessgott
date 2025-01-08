@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(event listener): introduce BeforeJobError as a new Eventlistener](https://github.com/go-co-op/gocron/pull/813) on [go-co-op/gocron](https://github.com/go-co-op/gocron) (today)
+- [feat(beforeJobError): introduce BeforeJobError as a new Eventlistener](https://github.com/go-co-op/gocron/pull/812) on [go-co-op/gocron](https://github.com/go-co-op/gocron) (today)
 - [feat(CI): add CIs](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero/pull/3) on [clear-route/hashicorp-vault-from-zero-to-hero](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero) (1 day ago)
-- [feat(sprout): migrate to sprout](https://github.com/FalcoSuessgott/mdtmpl/pull/31) on [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) (2 days ago)
-- [feat(hook): add hook tmpl func](https://github.com/FalcoSuessgott/mdtmpl/pull/28) on [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
