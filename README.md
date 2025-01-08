@@ -8,8 +8,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [clear-route/hashicorp-vault-from-zero-to-hero](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero) - A DIY success story from a team adopting HashiCorp Vault  for Kubernetes Secrets Management (today)
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (2 days ago)
-- [clear-route/hashicorp-vault-from-zero-to-hero](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero) -  (2 days ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (3 weeks ago)
 
 #### 🌱 My latest projects
