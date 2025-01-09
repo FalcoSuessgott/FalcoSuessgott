@@ -8,8 +8,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [clear-route/hashicorp-vault-from-zero-to-hero](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero) - A DIY success story from a team adopting HashiCorp Vault  for Kubernetes Secrets Management (today)
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (2 days ago)
+- [clear-route/hashicorp-vault-from-zero-to-hero](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero) - A DIY success story from a team adopting HashiCorp Vault  for Kubernetes Secrets Management (1 day ago)
+- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (3 days ago)
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.0](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.0), 2 days ago) - A dead simple Markdown templating tool
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.14.2-rc1](https://github.com/go-co-op/gocron/releases/tag/v2.14.2-rc1), 5 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.0.0](https://github.com/ansible-community/ansible-vault/releases/tag/v3.0.0), 3 weeks ago) - :key: Ansible role for Hashicorp Vault
+- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.0](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.0), 3 days ago) - A dead simple Markdown templating tool
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.14.2-rc1](https://github.com/go-co-op/gocron/releases/tag/v2.14.2-rc1), 6 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.0.0](https://github.com/ansible-community/ansible-vault/releases/tag/v3.0.0), 4 weeks ago) - :key: Ansible role for Hashicorp Vault
 
 #### 📜 My recent blog posts
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(event listener): introduce BeforeJobError as a new Eventlistener](https://github.com/go-co-op/gocron/pull/813) on [go-co-op/gocron](https://github.com/go-co-op/gocron) (today)
-- [feat(beforeJobError): introduce BeforeJobError as a new Eventlistener](https://github.com/go-co-op/gocron/pull/812) on [go-co-op/gocron](https://github.com/go-co-op/gocron) (today)
-- [feat(CI): add CIs](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero/pull/3) on [clear-route/hashicorp-vault-from-zero-to-hero](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero) (1 day ago)
+- [feat(event listener): introduce BeforeJobError as a new Eventlistener](https://github.com/go-co-op/gocron/pull/813) on [go-co-op/gocron](https://github.com/go-co-op/gocron) (1 day ago)
+- [feat(beforeJobError): introduce BeforeJobError as a new Eventlistener](https://github.com/go-co-op/gocron/pull/812) on [go-co-op/gocron](https://github.com/go-co-op/gocron) (1 day ago)
+- [feat(CI): add CIs](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero/pull/3) on [clear-route/hashicorp-vault-from-zero-to-hero](https://github.com/clear-route/hashicorp-vault-from-zero-to-hero) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
