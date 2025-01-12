@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (2 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
 - [FalcoSuessgott/mdtmpl-action](https://github.com/FalcoSuessgott/mdtmpl-action) - Github Action for https://github.com/FalcoSuessgott/mdtmpl (2 days ago)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 days ago)
+- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) - A dead simple Markdown templating tool (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.5](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.5), today) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [FalcoSuessgott/mdtmpl-action](https://github.com/FalcoSuessgott/mdtmpl-action) ([v1.0.0](https://github.com/FalcoSuessgott/mdtmpl-action/releases/tag/v1.0.0), 2 days ago) - Github Action for https://github.com/FalcoSuessgott/mdtmpl
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.2](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.2), 2 days ago) - A dead simple Markdown templating tool
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.1.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.1.0), 3 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 
 #### 📜 My recent blog posts
 
