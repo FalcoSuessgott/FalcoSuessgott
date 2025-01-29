@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.15.0](https://github.com/go-co-op/gocron/releases/tag/v2.15.0), 5 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.0](https://github.com/konstructio/gitops-template/releases/tag/v2.8.0), 1 day ago) - upstream template for your open source gitops repository
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.15.0](https://github.com/go-co-op/gocron/releases/tag/v2.15.0), 6 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.2](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.2), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.5](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.5), 2 weeks ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
 
