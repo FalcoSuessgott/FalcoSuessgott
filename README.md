@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [chore(plugin): refactor](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/179) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [feat(template): support templating](https://github.com/TwiN/gatus/pull/995) on [TwiN/gatus](https://github.com/TwiN/gatus) (6 days ago)
 - [feat(arm64): publish docker arm64 images](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/169) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (3 weeks ago)
-- [feat(tls_auth): support vault tls auth](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/163) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
