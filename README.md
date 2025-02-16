@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [chore(docs): minor docs](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/5) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (today)
 - [feat(kubectl-vault-login)](https://github.com/kubernetes-sigs/krew-index/pull/4415) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (today)
 - [chore(plugin): refactor](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/179) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (4 days ago)
-- [feat(template): support templating](https://github.com/TwiN/gatus/pull/995) on [TwiN/gatus](https://github.com/TwiN/gatus) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
