@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.2.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.2.0), today) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.0.2](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.0.2), 1 day ago) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.3](https://github.com/konstructio/gitops-template/releases/tag/v2.8.3), 6 days ago) - upstream template for your open source gitops repository
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.15.0](https://github.com/go-co-op/gocron/releases/tag/v2.15.0), 3 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
 #### 📜 My recent blog posts
 
