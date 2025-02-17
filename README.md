@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.0.2](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.0.2), today) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vaults Kubernetes Secret Engine
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.3](https://github.com/konstructio/gitops-template/releases/tag/v2.8.3), 5 days ago) - upstream template for your open source gitops repository
+- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.0.2](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.0.2), 1 day ago) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vaults Kubernetes Secret Engine
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.3](https://github.com/konstructio/gitops-template/releases/tag/v2.8.3), 6 days ago) - upstream template for your open source gitops repository
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.15.0](https://github.com/go-co-op/gocron/releases/tag/v2.15.0), 3 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
 #### 📜 My recent blog posts
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [chore(docs): minor docs](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/5) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (today)
-- [feat(kubectl-vault-login)](https://github.com/kubernetes-sigs/krew-index/pull/4415) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (today)
-- [chore(plugin): refactor](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/179) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (4 days ago)
+- [chore(docs): minor docs](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/5) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (1 day ago)
+- [feat(kubectl-vault-login)](https://github.com/kubernetes-sigs/krew-index/pull/4415) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 day ago)
+- [chore(plugin): refactor](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/179) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
