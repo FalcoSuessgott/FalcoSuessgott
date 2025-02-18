@@ -10,7 +10,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. (today)
 - [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine (today)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 weeks ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.2.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.2.0), today) - A utility for generating Mermaid diagrams from Terraform configurations
-- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.0.2](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.0.2), 1 day ago) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.3](https://github.com/konstructio/gitops-template/releases/tag/v2.8.3), 6 days ago) - upstream template for your open source gitops repository
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.2.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.2.0), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.0.2](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.0.2), 2 days ago) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.3](https://github.com/konstructio/gitops-template/releases/tag/v2.8.3), 1 week ago) - upstream template for your open source gitops repository
 
 #### 📜 My recent blog posts
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [chore(docs): minor docs](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/5) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (1 day ago)
-- [add: kubectl-vault-login](https://github.com/kubernetes-sigs/krew-index/pull/4415) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 day ago)
-- [chore(plugin): refactor](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/179) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (5 days ago)
+- [chore(docs): minor docs](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/5) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (2 days ago)
+- [add: kubectl-vault-login](https://github.com/kubernetes-sigs/krew-index/pull/4415) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (2 days ago)
+- [chore(plugin): refactor](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/179) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
