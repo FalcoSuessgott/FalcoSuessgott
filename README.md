@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4), today) - upstream template for your open source gitops repository
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.2.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.2.0), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.0.2](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.0.2), 2 days ago) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.3](https://github.com/konstructio/gitops-template/releases/tag/v2.8.3), 1 week ago) - upstream template for your open source gitops repository
 
 #### 📜 My recent blog posts
 
