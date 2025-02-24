@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine (4 days ago)
+- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine (today)
 - [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. (6 days ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 month ago)
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(kubeconfig): patch kubeconfig](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/10) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (today)
 - [chore(krew): add krew bot](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/8) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (4 days ago)
 - [chore(docs): minor docs](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/5) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (1 week ago)
-- [add: kubectl-vault-login](https://github.com/kubernetes-sigs/krew-index/pull/4415) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
