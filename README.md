@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(oidc): support OIDC in kubeconfig](https://github.com/iximiuz/cdebug/pull/75) on [iximiuz/cdebug](https://github.com/iximiuz/cdebug) (today)
 - [feat(tokencache): implement token cache](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/14) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (1 week ago)
 - [chore(docs): addd liveness and readiness probes to the kubernetes example](https://github.com/cloudprober/cloudprober/pull/1023) on [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) (1 week ago)
-- [feat(kubeconfig): patch kubeconfig](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/10) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
