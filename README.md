@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging (today)
 - [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine (1 week ago)
 - [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. (3 weeks ago)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 month ago)
 
 #### 🌱 My latest projects
 
