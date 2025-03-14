@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.1](https://github.com/go-co-op/gocron/releases/tag/v2.16.1), today) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.1.1](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.1.1), 1 week ago) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.0](https://github.com/go-co-op/gocron/releases/tag/v2.16.0), 2 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.14](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.14), 2 weeks ago) - Goss Provisioner for Packer
 
 #### 📜 My recent blog posts
