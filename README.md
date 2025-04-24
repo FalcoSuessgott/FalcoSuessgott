@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging (1 month ago)
-- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.3](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.3), today) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.6](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.6), today) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.1](https://github.com/go-co-op/gocron/releases/tag/v2.16.1), 1 month ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) ([v0.1.1](https://github.com/FalcoSuessgott/kubectl-vault-login/releases/tag/v0.1.1), 1 month ago) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine
-- [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) ([v3.2.14](https://github.com/YaleUniversity/packer-plugin-goss/releases/tag/v3.2.14), 2 months ago) - Goss Provisioner for Packer
 
 #### 📜 My recent blog posts
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [chore(gomod): bump go mod](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/199) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [docs(k8s): update image](https://github.com/FalcoSuessgott/vkv/pull/349) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(oidc): support OIDC in kubeconfig](https://github.com/iximiuz/cdebug/pull/75) on [iximiuz/cdebug](https://github.com/iximiuz/cdebug) (1 month ago)
-- [feat(tokencache): implement token cache](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/14) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
