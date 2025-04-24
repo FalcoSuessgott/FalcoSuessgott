@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging (1 month ago)
 - [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) - A kubectl plugin for authenticating to Kubernetes using HashiCorp Vault&#39;s Kubernetes Secret Engine (1 month ago)
-- [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [docs(k8s): update image](https://github.com/FalcoSuessgott/vkv/pull/349) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [feat(oidc): support OIDC in kubeconfig](https://github.com/iximiuz/cdebug/pull/75) on [iximiuz/cdebug](https://github.com/iximiuz/cdebug) (1 month ago)
 - [feat(tokencache): implement token cache](https://github.com/FalcoSuessgott/kubectl-vault-login/pull/14) on [FalcoSuessgott/kubectl-vault-login](https://github.com/FalcoSuessgott/kubectl-vault-login) (1 month ago)
-- [chore(docs): addd liveness and readiness probes to the kubernetes example](https://github.com/cloudprober/cloudprober/pull/1023) on [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
