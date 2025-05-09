@@ -32,6 +32,6 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [chore(gomod): bump go mod](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/199) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (2 weeks ago)
 - [docs(k8s): update image](https://github.com/FalcoSuessgott/vkv/pull/349) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
-- [feat(oidc): support OIDC in kubeconfig](https://github.com/iximiuz/cdebug/pull/75) on [iximiuz/cdebug](https://github.com/iximiuz/cdebug) (1 month ago)
+- [feat(oidc): support OIDC in kubeconfig](https://github.com/iximiuz/cdebug/pull/75) on [iximiuz/cdebug](https://github.com/iximiuz/cdebug) (2 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
