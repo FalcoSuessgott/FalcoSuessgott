@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.2](https://github.com/go-co-op/gocron/releases/tag/v2.16.2), today) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.3](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.3), 3 weeks ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.8.6](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.8.6), 3 weeks ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.1](https://github.com/go-co-op/gocron/releases/tag/v2.16.1), 2 months ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
 #### 📜 My recent blog posts
 
