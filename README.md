@@ -10,7 +10,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 week ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 month ago)
-- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging (2 months ago)
+- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.5.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.5.0), today) - A utility for generating Mermaid diagrams from Terraform configurations
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.5.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.5.0), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.9.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.9.1), 1 week ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.2](https://github.com/go-co-op/gocron/releases/tag/v2.16.2), 3 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
