@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.5.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.5.0), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.5.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.5.0), 2 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.9.1](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.9.1), 1 week ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.2](https://github.com/go-co-op/gocron/releases/tag/v2.16.2), 3 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
@@ -32,6 +32,6 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [chore(gin): drop gin in favor of net/http](https://github.com/FalcoSuessgott/vkv/pull/370) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
 - [feat(merge-paths): add merge-paths CLI arg](https://github.com/FalcoSuessgott/vkv/pull/369) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [chore(gha): run CI on main](https://github.com/FalcoSuessgott/vkv/pull/366) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
+- [chore(gha): run CI on main](https://github.com/FalcoSuessgott/vkv/pull/366) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
