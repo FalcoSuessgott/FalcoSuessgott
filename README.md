@@ -32,6 +32,6 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [chore(gin): drop gin in favor of net/http](https://github.com/FalcoSuessgott/vkv/pull/370) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
 - [feat(merge-paths): add merge-paths CLI arg](https://github.com/FalcoSuessgott/vkv/pull/369) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
-- [chore(gha): run CI on main](https://github.com/FalcoSuessgott/vkv/pull/366) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
+- [chore(gha): run CI on main](https://github.com/FalcoSuessgott/vkv/pull/366) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
