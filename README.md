@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 weeks ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (2 months ago)
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging (3 months ago)
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [chore(cli): switch to fang](https://github.com/FalcoSuessgott/vkv/pull/375) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [chore(gin): drop gin in favor of net/http](https://github.com/FalcoSuessgott/vkv/pull/370) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
 - [feat(merge-paths): add merge-paths CLI arg](https://github.com/FalcoSuessgott/vkv/pull/369) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
-- [chore(gha): run CI on main](https://github.com/FalcoSuessgott/vkv/pull/366) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
