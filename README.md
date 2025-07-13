@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 5 days ago) - A dead simple Markdown templating tool
+- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 6 days ago) - A dead simple Markdown templating tool
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.9.3](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.9.3), 1 week ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.5.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.5.0), 1 month ago) - A utility for generating Mermaid diagrams from Terraform configurations
 
@@ -31,7 +31,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 🔨 My recent Pull Requests
 
 - [fix(import): add --skip-errors flag to skip errors during KV engine and version check](https://github.com/FalcoSuessgott/vkv/pull/380) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [chore(cli): switch to fang](https://github.com/FalcoSuessgott/vkv/pull/375) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
+- [chore(cli): switch to fang](https://github.com/FalcoSuessgott/vkv/pull/375) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 - [chore(gin): drop gin in favor of net/http](https://github.com/FalcoSuessgott/vkv/pull/370) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
