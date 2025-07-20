@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [chore(test): bump to vault v1.20](https://github.com/FalcoSuessgott/vkv/pull/386) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [fix(import): add --skip-errors flag to skip errors during KV engine and version check](https://github.com/FalcoSuessgott/vkv/pull/380) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (2 weeks ago)
 - [chore(cli): switch to fang](https://github.com/FalcoSuessgott/vkv/pull/375) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
-- [chore(gin): drop gin in favor of net/http](https://github.com/FalcoSuessgott/vkv/pull/370) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
