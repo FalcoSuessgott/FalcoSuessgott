@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.6.0](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.6.0), today) - A utility for generating Mermaid diagrams from Terraform configurations
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.3](https://github.com/go-co-op/gocron/releases/tag/v2.16.3), 1 day ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 3 weeks ago) - A dead simple Markdown templating tool
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.9.3](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.9.3), 3 weeks ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
 
