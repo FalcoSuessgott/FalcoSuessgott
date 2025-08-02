@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.6.2](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.6.2), 1 day ago) - A utility for generating Mermaid diagrams from Terraform configurations
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.3](https://github.com/go-co-op/gocron/releases/tag/v2.16.3), 3 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) ([v2.6.2](https://github.com/RoseSecurity/Terramaid/releases/tag/v2.6.2), 2 days ago) - A utility for generating Mermaid diagrams from Terraform configurations
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.3](https://github.com/go-co-op/gocron/releases/tag/v2.16.3), 4 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 3 weeks ago) - A dead simple Markdown templating tool
 
 #### 📜 My recent blog posts
@@ -31,7 +31,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 🔨 My recent Pull Requests
 
 - [feat(test): run tests against the last 3 major Vault versions](https://github.com/FalcoSuessgott/vkv/pull/386) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 week ago)
-- [fix(import): add --skip-errors flag to skip errors during KV engine and version check](https://github.com/FalcoSuessgott/vkv/pull/380) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
+- [fix(import): add --skip-errors flag to skip errors during KV engine and version check](https://github.com/FalcoSuessgott/vkv/pull/380) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (4 weeks ago)
 - [chore(cli): switch to fang](https://github.com/FalcoSuessgott/vkv/pull/375) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
