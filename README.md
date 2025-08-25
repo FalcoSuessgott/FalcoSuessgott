@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (today)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 weeks ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (4 months ago)
-- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.6.4](https://github.com/kagent-dev/kagent/releases/tag/v0.6.4), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.3](https://github.com/go-co-op/gocron/releases/tag/v2.16.3), 3 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 1 month ago) - A dead simple Markdown templating tool
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.9.3](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.9.3), 1 month ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
 
