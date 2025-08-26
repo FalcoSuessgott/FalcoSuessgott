@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.6.4](https://github.com/kagent-dev/kagent/releases/tag/v0.6.4), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.3](https://github.com/go-co-op/gocron/releases/tag/v2.16.3), 3 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.6.4](https://github.com/kagent-dev/kagent/releases/tag/v0.6.4), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.16.3](https://github.com/go-co-op/gocron/releases/tag/v2.16.3), 4 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 1 month ago) - A dead simple Markdown templating tool
 
 #### 📜 My recent blog posts
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(install): do not add --set for an empty string](https://github.com/kagent-dev/kagent/pull/807) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (today)
+- [fix(install): do not add --set for an empty string](https://github.com/kagent-dev/kagent/pull/807) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (1 day ago)
 - [feat(mcp): add MCP server](https://github.com/FalcoSuessgott/vkv/pull/390) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 weeks ago)
 - [feat(test): run tests against the last 3 major Vault versions](https://github.com/FalcoSuessgott/vkv/pull/386) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
