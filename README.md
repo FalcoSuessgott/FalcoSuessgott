@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [fix(version): print out version regardless of port-forwarding](https://github.com/kagent-dev/kagent/pull/980) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (today)
 - [fix(install): cancel root context when receiving an OS signal](https://github.com/kagent-dev/kagent/pull/810) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (1 month ago)
 - [fix(install): do not add --set for an empty string](https://github.com/kagent-dev/kagent/pull/807) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (1 month ago)
-- [feat(mcp): add MCP server](https://github.com/FalcoSuessgott/vkv/pull/390) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
