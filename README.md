@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.2](https://github.com/kagent-dev/kagent/releases/tag/v0.7.2), 4 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.2](https://github.com/kagent-dev/kagent/releases/tag/v0.7.2), 5 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.17.0](https://github.com/go-co-op/gocron/releases/tag/v2.17.0), 3 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 3 months ago) - A dead simple Markdown templating tool
+- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 4 months ago) - A dead simple Markdown templating tool
 
 #### 📜 My recent blog posts
 
