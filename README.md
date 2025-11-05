@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(opts): add AIPENabled and WebSocketEnabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (today)
+- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (today)
 - [fix(version): only stop port-forwarding when successfully connected](https://github.com/kagent-dev/kagent/pull/1014) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (3 weeks ago)
-- [fix(version): print out version regardless of port-forwarding; pass through contexts ](https://github.com/kagent-dev/kagent/pull/980) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (1 month ago)
-- [fix(install): cancel root context when receiving an OS signal](https://github.com/kagent-dev/kagent/pull/810) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (2 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
