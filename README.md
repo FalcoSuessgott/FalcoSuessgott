@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(opts): add AIPENabled and WebSocketEnabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (today)
+- [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (today)
 - [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (today)
 - [fix(version): only stop port-forwarding when successfully connected](https://github.com/kagent-dev/kagent/pull/1014) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (3 weeks ago)
 
