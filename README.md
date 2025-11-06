@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 weeks ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (3 weeks ago)
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do. (1 month ago)
 - [YaleUniversity/packer-plugin-goss](https://github.com/YaleUniversity/packer-plugin-goss) - Goss Provisioner for Packer (2 months ago)
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.0](https://github.com/go-co-op/gocron/releases/tag/v2.18.0), today) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.4](https://github.com/kagent-dev/kagent/releases/tag/v0.7.4), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.0](https://github.com/go-co-op/gocron/releases/tag/v2.18.0), 1 day ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.4](https://github.com/kagent-dev/kagent/releases/tag/v0.7.4), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 4 months ago) - A dead simple Markdown templating tool
 
 #### 📜 My recent blog posts
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (today)
-- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (today)
+- [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 day ago)
+- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 day ago)
 - [fix(version): only stop port-forwarding when successfully connected](https://github.com/kagent-dev/kagent/pull/1014) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
