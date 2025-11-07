@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.0](https://github.com/go-co-op/gocron/releases/tag/v2.18.0), 1 day ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.4](https://github.com/kagent-dev/kagent/releases/tag/v0.7.4), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.0](https://github.com/go-co-op/gocron/releases/tag/v2.18.0), 2 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.4](https://github.com/kagent-dev/kagent/releases/tag/v0.7.4), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 4 months ago) - A dead simple Markdown templating tool
 
 #### 📜 My recent blog posts
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 day ago)
-- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 day ago)
+- [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (2 days ago)
+- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (2 days ago)
 - [fix(version): only stop port-forwarding when successfully connected](https://github.com/kagent-dev/kagent/pull/1014) on [kagent-dev/kagent](https://github.com/kagent-dev/kagent) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
