@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(examples): add basic auth example](https://github.com/go-co-op/gocron-ui/pull/10) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 week ago)
+- [feat(examples): add basic auth example](https://github.com/go-co-op/gocron-ui/pull/10) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (2 weeks ago)
 - [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (2 weeks ago)
 - [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (2 weeks ago)
 
