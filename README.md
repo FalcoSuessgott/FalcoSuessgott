@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.1](https://github.com/go-co-op/gocron/releases/tag/v2.18.1), today) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.2.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.2.0), 1 week ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.0](https://github.com/go-co-op/gocron/releases/tag/v2.18.0), 2 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.4](https://github.com/kagent-dev/kagent/releases/tag/v0.7.4), 2 weeks ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 
 #### 📜 My recent blog posts
