@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.6](https://github.com/kagent-dev/kagent/releases/tag/v0.7.6), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.2.4](https://github.com/ansible-community/ansible-vault/releases/tag/v3.2.4), 1 week ago) - :key: Ansible role for Hashicorp Vault
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.2](https://github.com/go-co-op/gocron/releases/tag/v2.18.2), 1 week ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.5](https://github.com/kagent-dev/kagent/releases/tag/v0.7.5), 2 weeks ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 
 #### 📜 My recent blog posts
 
