@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (3 weeks ago)
+- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (4 weeks ago)
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 month ago)
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do. (2 months ago)
 
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.6](https://github.com/kagent-dev/kagent/releases/tag/v0.7.6), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.6](https://github.com/kagent-dev/kagent/releases/tag/v0.7.6), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.2.4](https://github.com/ansible-community/ansible-vault/releases/tag/v3.2.4), 1 week ago) - :key: Ansible role for Hashicorp Vault
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.2](https://github.com/go-co-op/gocron/releases/tag/v2.18.2), 1 week ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.18.2](https://github.com/go-co-op/gocron/releases/tag/v2.18.2), 2 weeks ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
 #### 📜 My recent blog posts
 
