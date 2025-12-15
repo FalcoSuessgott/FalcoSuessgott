@@ -9,7 +9,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 👷 Check out what I'm currently working on
 
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (1 month ago)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 month ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 months ago)
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do. (2 months ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.19.0](https://github.com/go-co-op/gocron/releases/tag/v2.19.0), 2 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.3.0](https://github.com/ansible-community/ansible-vault/releases/tag/v3.3.0), 3 days ago) - :key: Ansible role for Hashicorp Vault
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.7](https://github.com/kagent-dev/kagent/releases/tag/v0.7.7), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.19.0](https://github.com/go-co-op/gocron/releases/tag/v2.19.0), 3 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) ([v3.3.0](https://github.com/ansible-community/ansible-vault/releases/tag/v3.3.0), 4 days ago) - :key: Ansible role for Hashicorp Vault
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.7](https://github.com/kagent-dev/kagent/releases/tag/v0.7.7), 4 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 
 #### 📜 My recent blog posts
 
