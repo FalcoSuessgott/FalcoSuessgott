@@ -10,7 +10,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (1 month ago)
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 months ago)
-- [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do. (2 months ago)
+- [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.19.0](https://github.com/go-co-op/gocron/releases/tag/v2.19.0), 5 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.7](https://github.com/kagent-dev/kagent/releases/tag/v0.7.7), 6 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) ([v2.19.0](https://github.com/go-co-op/gocron/releases/tag/v2.19.0), 6 days ago) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.7](https://github.com/kagent-dev/kagent/releases/tag/v0.7.7), 1 week ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.2.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.2.0), 1 month ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
 
 #### 📜 My recent blog posts
