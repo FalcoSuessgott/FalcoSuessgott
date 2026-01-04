@@ -31,7 +31,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 🔨 My recent Pull Requests
 
 - [feat(examples): add basic auth example](https://github.com/go-co-op/gocron-ui/pull/10) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 month ago)
-- [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 month ago)
-- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (1 month ago)
+- [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (2 months ago)
+- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (2 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
