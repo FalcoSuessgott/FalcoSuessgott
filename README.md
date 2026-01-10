@@ -22,7 +22,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.8](https://github.com/kagent-dev/kagent/releases/tag/v0.7.8), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.3.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.3.0), 3 days ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
-- [FalcoSuessgott/mdtmpl](https://github.com/FalcoSuessgott/mdtmpl) ([v0.2.3](https://github.com/FalcoSuessgott/mdtmpl/releases/tag/v0.2.3), 6 months ago) - A dead simple Markdown templating tool
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.9.3](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.9.3), 6 months ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
 
