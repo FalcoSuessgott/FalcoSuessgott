@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (1 month ago)
+- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (2 months ago)
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 months ago)
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do. (3 months ago)
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.8](https://github.com/kagent-dev/kagent/releases/tag/v0.7.8), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.3.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.3.0), 3 days ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.8](https://github.com/kagent-dev/kagent/releases/tag/v0.7.8), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.3.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.3.0), 4 days ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v0.9.3](https://github.com/FalcoSuessgott/vkv/releases/tag/v0.9.3), 6 months ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 
 #### 📜 My recent blog posts
