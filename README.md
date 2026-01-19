@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) ([v0.0.19](https://github.com/iximiuz/cdebug/releases/tag/v0.0.19), today) - cdebug - a swiss army knife of container debugging
+- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) ([v0.0.19](https://github.com/iximiuz/cdebug/releases/tag/v0.0.19), 1 day ago) - cdebug - a swiss army knife of container debugging
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.8](https://github.com/kagent-dev/kagent/releases/tag/v0.7.8), 1 week ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.3.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.3.0), 1 week ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
 
