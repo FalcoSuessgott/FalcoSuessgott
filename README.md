@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.14](https://github.com/kagent-dev/kagent/releases/tag/v0.7.14), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) ([v0.0.1](https://github.com/clear-route/vault-usage-exporter/releases/tag/v0.0.1), 6 days ago) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.13](https://github.com/kagent-dev/kagent/releases/tag/v0.7.13), 1 week ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) ([v0.0.19](https://github.com/iximiuz/cdebug/releases/tag/v0.0.19), 3 weeks ago) - cdebug - a swiss army knife of container debugging
 
 #### 📜 My recent blog posts
