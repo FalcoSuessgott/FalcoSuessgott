@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (today)
 - [feat(examples): add basic auth example](https://github.com/go-co-op/gocron-ui/pull/10) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (3 months ago)
 - [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (3 months ago)
-- [fix(typo): fix examples dir typo](https://github.com/go-co-op/gocron-ui/pull/7) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (3 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
