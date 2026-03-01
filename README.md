@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.19](https://github.com/kagent-dev/kagent/releases/tag/v0.7.19), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.19](https://github.com/kagent-dev/kagent/releases/tag/v0.7.19), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) ([v0.0.1](https://github.com/clear-route/vault-usage-exporter/releases/tag/v0.0.1), 3 weeks ago) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...)
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) ([v0.0.19](https://github.com/iximiuz/cdebug/releases/tag/v0.0.19), 1 month ago) - cdebug - a swiss army knife of container debugging
 
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (6 days ago)
+- [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (1 week ago)
 - [feat(examples): add basic auth example](https://github.com/go-co-op/gocron-ui/pull/10) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (3 months ago)
 - [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (3 months ago)
 
