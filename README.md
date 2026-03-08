@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...) (4 weeks ago)
+- [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...) (1 month ago)
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (3 months ago)
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (4 months ago)
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.23](https://github.com/kagent-dev/kagent/releases/tag/v0.7.23), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) ([v0.0.1](https://github.com/clear-route/vault-usage-exporter/releases/tag/v0.0.1), 4 weeks ago) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.7.23](https://github.com/kagent-dev/kagent/releases/tag/v0.7.23), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) ([v0.0.1](https://github.com/clear-route/vault-usage-exporter/releases/tag/v0.0.1), 1 month ago) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...)
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) ([v0.0.19](https://github.com/iximiuz/cdebug/releases/tag/v0.0.19), 1 month ago) - cdebug - a swiss army knife of container debugging
 
 #### 📜 My recent blog posts
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (1 week ago)
+- [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (2 weeks ago)
 - [feat(examples): add basic auth example](https://github.com/go-co-op/gocron-ui/pull/10) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (3 months ago)
 - [feat(opts): add WithWebSocketDisabled and WithAPIDisabled Server Options](https://github.com/go-co-op/gocron-ui/pull/8) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (4 months ago)
 
