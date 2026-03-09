@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) ([v0.14.2](https://github.com/cloudprober/cloudprober/releases/tag/v0.14.2), today) - An active monitoring software to detect failures before your customers do.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.8.0-beta3](https://github.com/kagent-dev/kagent/releases/tag/v0.8.0-beta3), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) ([v0.0.1](https://github.com/clear-route/vault-usage-exporter/releases/tag/v0.0.1), 1 month ago) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...)
-- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) ([v0.0.19](https://github.com/iximiuz/cdebug/releases/tag/v0.0.19), 1 month ago) - cdebug - a swiss army knife of container debugging
 
 #### 📜 My recent blog posts
 
