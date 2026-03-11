@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.8.0-beta4](https://github.com/kagent-dev/kagent/releases/tag/v0.8.0-beta4), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) ([v0.14.2](https://github.com/cloudprober/cloudprober/releases/tag/v0.14.2), 1 day ago) - An active monitoring software to detect failures before your customers do.
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.8.0-beta4](https://github.com/kagent-dev/kagent/releases/tag/v0.8.0-beta4), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) ([v0.14.2](https://github.com/cloudprober/cloudprober/releases/tag/v0.14.2), 2 days ago) - An active monitoring software to detect failures before your customers do.
 - [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) ([v0.0.1](https://github.com/clear-route/vault-usage-exporter/releases/tag/v0.0.1), 1 month ago) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...)
 
 #### 📜 My recent blog posts
