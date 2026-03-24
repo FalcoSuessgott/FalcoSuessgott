@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(comment): optionally disable comment](https://github.com/OP5dev/TF-via-PR/pull/544) on [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) (today)
 - [feat(tfenv): allow installing a custom Terraform version using tfenv](https://github.com/patrickchugh/terravision/pull/178) on [patrickchugh/terravision](https://github.com/patrickchugh/terravision) (1 day ago)
 - [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (1 month ago)
-- [feat(examples): add basic auth example](https://github.com/go-co-op/gocron-ui/pull/10) on [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) (4 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
