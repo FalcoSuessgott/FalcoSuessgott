@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.8.0](https://github.com/kagent-dev/kagent/releases/tag/v0.8.0), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.8.0](https://github.com/kagent-dev/kagent/releases/tag/v0.8.0), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) ([v0.0.1](https://github.com/clear-route/vault-usage-exporter/releases/tag/v0.0.1), 1 month ago) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...)
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.3.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.3.0), 2 months ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(comment): optionally disable comment](https://github.com/OP5dev/TF-via-PR/pull/544) on [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) (1 day ago)
-- [feat(tfenv): allow installing a custom Terraform version using tfenv](https://github.com/patrickchugh/terravision/pull/178) on [patrickchugh/terravision](https://github.com/patrickchugh/terravision) (2 days ago)
+- [feat(comment): optionally disable comment](https://github.com/OP5dev/TF-via-PR/pull/544) on [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) (2 days ago)
+- [feat(tfenv): allow installing a custom Terraform version using tfenv](https://github.com/patrickchugh/terravision/pull/178) on [patrickchugh/terravision](https://github.com/patrickchugh/terravision) (3 days ago)
 - [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
