@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure. (5 days ago)
 - [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...) (1 month ago)
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard. (4 months ago)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (5 months ago)
 
 #### 🌱 My latest projects
 
