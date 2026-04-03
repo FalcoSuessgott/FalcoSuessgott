@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 day ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure. (1 week ago)
 - [clear-route/vault-usage-exporter](https://github.com/clear-route/vault-usage-exporter) - Prometheus Exporter reporting the usage of HashiCorp Vault (Namespaces, Secret Engines, Tokens, Leases, ...) (1 month ago)
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [fix(linting): fix linting](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/287) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
 - [feat(comment): optionally disable comment](https://github.com/OP5dev/TF-via-PR/pull/544) on [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) (1 week ago)
 - [feat(tfenv): allow installing a custom Terraform version using tfenv](https://github.com/patrickchugh/terravision/pull/178) on [patrickchugh/terravision](https://github.com/patrickchugh/terravision) (1 week ago)
-- [fix(manifest-experiment): strip data from secret during normalization](https://github.com/hashicorp/terraform-provider-helm/pull/1766) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
