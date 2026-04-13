@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.0-beta3](https://github.com/kagent-dev/kagent/releases/tag/v0.9.0-beta3), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.32.0](https://github.com/patrickchugh/terravision/releases/tag/v0.32.0), 6 days ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.0-beta3](https://github.com/kagent-dev/kagent/releases/tag/v0.9.0-beta3), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.32.0](https://github.com/patrickchugh/terravision/releases/tag/v0.32.0), 1 week ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.0.4](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.0.4), 1 week ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
@@ -32,6 +32,6 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [fix(linting): fix linting](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/287) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 week ago)
 - [feat(comment): optionally disable comment](https://github.com/OP5dev/TF-via-PR/pull/544) on [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) (2 weeks ago)
-- [feat(tfenv): allow installing a custom Terraform version using tfenv](https://github.com/patrickchugh/terravision/pull/178) on [patrickchugh/terravision](https://github.com/patrickchugh/terravision) (2 weeks ago)
+- [feat(tfenv): allow installing a custom Terraform version using tfenv](https://github.com/patrickchugh/terravision/pull/178) on [patrickchugh/terravision](https://github.com/patrickchugh/terravision) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
