@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.0-beta8](https://github.com/kagent-dev/kagent/releases/tag/v0.9.0-beta8), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.0](https://github.com/kagent-dev/kagent/releases/tag/v0.9.0), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.38.0](https://github.com/patrickchugh/terravision/releases/tag/v0.38.0), 6 days ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 - [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) ([v0.0.2](https://github.com/clear-route/vault-client-count-exporter/releases/tag/v0.0.2), 6 days ago) - A dead-simple Prometheus exporter to monitor Vaults Client Count for an entire Cluster and each Namespace
 
