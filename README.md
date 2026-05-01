@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.1](https://github.com/kagent-dev/kagent/releases/tag/v0.9.1), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.39.0](https://github.com/patrickchugh/terravision/releases/tag/v0.39.0), 1 day ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) ([v0.14.3](https://github.com/cloudprober/cloudprober/releases/tag/v0.14.3), 1 week ago) - An active monitoring software to detect failures before your customers do.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.0](https://github.com/kagent-dev/kagent/releases/tag/v0.9.0), 1 week ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 
 #### 📜 My recent blog posts
 
