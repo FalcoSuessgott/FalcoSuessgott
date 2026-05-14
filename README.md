@@ -9,7 +9,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 👷 Check out what I'm currently working on
 
 - [clear-route/vault-spec-driven-terraform-testing-framework](https://github.com/clear-route/vault-spec-driven-terraform-testing-framework) - A POC showcasing how to use Terraforms testing framework for YAML spec driven testing of HashiCorp Vault (2 weeks ago)
-- [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) - A dead-simple Prometheus exporter to monitor Vaults Client Count for an entire Cluster and each Namespace (3 weeks ago)
+- [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) - A dead-simple Prometheus exporter to monitor Vaults Client Count for an entire Cluster and each Namespace (4 weeks ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.3](https://github.com/kagent-dev/kagent/releases/tag/v0.9.3), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.39.0](https://github.com/patrickchugh/terravision/releases/tag/v0.39.0), 1 week ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
-- [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) ([v0.0.2](https://github.com/clear-route/vault-client-count-exporter/releases/tag/v0.0.2), 3 weeks ago) - A dead-simple Prometheus exporter to monitor Vaults Client Count for an entire Cluster and each Namespace
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.3](https://github.com/kagent-dev/kagent/releases/tag/v0.9.3), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.39.0](https://github.com/patrickchugh/terravision/releases/tag/v0.39.0), 2 weeks ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
+- [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) ([v0.0.2](https://github.com/clear-route/vault-client-count-exporter/releases/tag/v0.0.2), 4 weeks ago) - A dead-simple Prometheus exporter to monitor Vaults Client Count for an entire Cluster and each Namespace
 
 #### 📜 My recent blog posts
 
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [chore(refactor): use activity and/or activity/monthly, update dashboard, rename exporter](https://github.com/clear-route/vault-client-count-exporter/pull/19) on [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) (3 weeks ago)
+- [chore(refactor): use activity and/or activity/monthly, update dashboard, rename exporter](https://github.com/clear-route/vault-client-count-exporter/pull/19) on [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) (4 weeks ago)
 - [fix(linting): fix linting](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/287) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (1 month ago)
 - [feat(comment): optionally disable comment](https://github.com/OP5dev/TF-via-PR/pull/544) on [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) (1 month ago)
 
