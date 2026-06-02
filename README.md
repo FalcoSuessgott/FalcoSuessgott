@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(kvv2): correctly trim suffix from vault_kv_secret_backend_v2](https://github.com/hashicorp/terraform-provider-vault/pull/2915) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (4 days ago)
+- [fix(kvv2): correctly trim suffix from vault_kv_secret_backend_v2](https://github.com/hashicorp/terraform-provider-vault/pull/2915) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (5 days ago)
 - [docs(ephemeral): add missing namespace attribute to ephemeral resources](https://github.com/hashicorp/terraform-provider-vault/pull/2907) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (2 weeks ago)
 - [chore(refactor): use activity and/or activity/monthly, update dashboard, rename exporter](https://github.com/clear-route/vault-client-count-exporter/pull/19) on [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) (1 month ago)
 
