@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.5](https://github.com/kagent-dev/kagent/releases/tag/v0.9.5), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.5](https://github.com/kagent-dev/kagent/releases/tag/v0.9.5), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.39.0](https://github.com/patrickchugh/terravision/releases/tag/v0.39.0), 1 month ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 - [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) ([v0.0.2](https://github.com/clear-route/vault-client-count-exporter/releases/tag/v0.0.2), 1 month ago) - A dead-simple Prometheus exporter to monitor Vaults Client Count for an entire Cluster and each Namespace
 
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(kvv2): correctly trim suffix from vault_kv_secret_backend_v2](https://github.com/hashicorp/terraform-provider-vault/pull/2915) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (5 days ago)
+- [fix(kvv2): correctly trim suffix from vault_kv_secret_backend_v2](https://github.com/hashicorp/terraform-provider-vault/pull/2915) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (6 days ago)
 - [docs(ephemeral): add missing namespace attribute to ephemeral resources](https://github.com/hashicorp/terraform-provider-vault/pull/2907) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (2 weeks ago)
 - [chore(refactor): use activity and/or activity/monthly, update dashboard, rename exporter](https://github.com/clear-route/vault-client-count-exporter/pull/19) on [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) (1 month ago)
 
