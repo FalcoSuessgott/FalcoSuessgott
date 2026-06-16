@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (1 week ago)
 - [clear-route/vault-spec-driven-terraform-testing-framework](https://github.com/clear-route/vault-spec-driven-terraform-testing-framework) - A POC showcasing how to use Terraforms testing framework for YAML spec driven testing of HashiCorp Vault (1 month ago)
 - [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) - A dead-simple Prometheus exporter to monitor Vaults Client Count for an entire Cluster and each Namespace (2 months ago)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(kvv2): correctly trim suffix from vault_kv_secret_backend_v2](https://github.com/hashicorp/terraform-provider-vault/pull/2915) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (2 weeks ago)
-- [docs(ephemeral): add missing namespace attribute to ephemeral resources](https://github.com/hashicorp/terraform-provider-vault/pull/2907) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (1 month ago)
-- [chore(refactor): use activity and/or activity/monthly, update dashboard, rename exporter](https://github.com/clear-route/vault-client-count-exporter/pull/19) on [clear-route/vault-client-count-exporter](https://github.com/clear-route/vault-client-count-exporter) (2 months ago)
+- [test public](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/18) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [Update main.go](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/17) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/16) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
