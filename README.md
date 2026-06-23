@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (today)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
-- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (5 days ago)
+- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (today)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 day ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.2.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.2.0), today) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.9](https://github.com/kagent-dev/kagent/releases/tag/v0.9.9), 5 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.2.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.2.0), 1 day ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.9](https://github.com/kagent-dev/kagent/releases/tag/v0.9.9), 6 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.42.0](https://github.com/patrickchugh/terravision/releases/tag/v0.42.0), 2 weeks ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 
 #### 📜 My recent blog posts
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(auth): add Vault cert auth method](https://github.com/FalcoSuessgott/vault-kubernetes-kms/pull/315) on [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) (today)
-- [remove components](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/19) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (6 days ago)
-- [test public](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/18) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (6 days ago)
+- [chore(demo-app): promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/22) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [feat(demo-app): update readme](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/21) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [feat(demo-app): onboard demo-app](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/20) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
