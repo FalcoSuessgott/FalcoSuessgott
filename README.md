@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [chore(demo-app): promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/22) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
-- [feat(demo-app): update readme](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/21) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
-- [feat(demo-app): onboard demo-app](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/20) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [chore(demo-app): promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/25) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [feat(demo-app): update readme](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/24) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [feat(demo-app): create app dir](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/23) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
