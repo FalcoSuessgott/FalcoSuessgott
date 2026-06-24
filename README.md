@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.10](https://github.com/kagent-dev/kagent/releases/tag/v0.9.10), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.2.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.2.0), 2 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.9](https://github.com/kagent-dev/kagent/releases/tag/v0.9.9), 1 week ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.42.0](https://github.com/patrickchugh/terravision/releases/tag/v0.42.0), 2 weeks ago) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 
 #### 📜 My recent blog posts
