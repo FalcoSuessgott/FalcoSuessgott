@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (1 day ago)
+- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (today)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 days ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 days ago)
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [Update main.go](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/28) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 day ago)
-- [Update README.md](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/27) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 day ago)
-- [Update main.go](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/26) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 day ago)
+- [Update kustomization.yaml](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/32) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [Update kustomization.yaml](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/31) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
+- [fix(demo-app): fix typo](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/30) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
