@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
 - [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (1 day ago)
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (4 days ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(export): --all-versions, flat yaml/json output and colorized tree](https://github.com/FalcoSuessgott/vkv/pull/469) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (today)
 - [chore(demo-app): promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/36) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 day ago)
 - [fix(demo-app): fix typo](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/35) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 day ago)
-- [feat(demo-app): onboard demo-app](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/34) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
