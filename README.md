@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-beta1](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-beta1), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v1.0.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v1.0.0), 3 days ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.3.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.3.0), 3 days ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.9.10](https://github.com/kagent-dev/kagent/releases/tag/v0.9.10), 5 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 
 #### 📜 My recent blog posts
 
