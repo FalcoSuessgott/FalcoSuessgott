@@ -10,7 +10,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 weeks ago)
 - [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (2 weeks ago)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (2 weeks ago)
+- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-beta6](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-beta6), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-beta6](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-beta6), 4 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v1.0.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v1.0.0), 2 weeks ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.3.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.3.0), 2 weeks ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
