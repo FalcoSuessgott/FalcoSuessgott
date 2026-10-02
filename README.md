@@ -2,7 +2,7 @@
 
 Im Tom, DevOps Engineer from Berlin and currently living in Sydney/Australia.
 
-I work as a Quality Cloud Engineer for [ClearRoute](https://clearroute.io).
+I work as a Staff Platform Engineer for [ClearRoute](https://clearroute.io).
 
 Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible, Git.
 
