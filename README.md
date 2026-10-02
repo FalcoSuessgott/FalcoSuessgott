@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
+- [feat(externalFields): introduce externalFields for per-field ownership handoff](https://github.com/kubernetes-sigs/kro/pull/1468) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (today)
 - [chore(docs): add example for checksum/config annotation for auto restarting after configmap changes](https://github.com/kubernetes-sigs/kro/pull/1452) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (4 days ago)
 - [feat(export): --all-versions, flat yaml/json output and colorized tree](https://github.com/FalcoSuessgott/vkv/pull/469) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 months ago)
-- [chore(demo-app): promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/36) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (3 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
