@@ -8,9 +8,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 month ago)
-- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (1 month ago)
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider (1 month ago)
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator (3 days ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 months ago)
+- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc1](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc1), 1 week ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) ([v1.0.0](https://github.com/FalcoSuessgott/vkv/releases/tag/v1.0.0), 1 month ago) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine
-- [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.3.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.3.0), 1 month ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha7](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha7), 1 day ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.51.1](https://github.com/patrickchugh/terravision/releases/tag/v0.51.1), 1 day ago) - Professional cloud architecture diagrams with official AWS, Azure and GCP icons, from Terraform code or a plain JSON graph. MCP server &#43; agent skill.
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0-rc.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0-rc.0), 1 week ago) - kro | Kube Resource Orchestrator
 
 #### 📜 My recent blog posts
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(export): --all-versions, flat yaml/json output and colorized tree](https://github.com/FalcoSuessgott/vkv/pull/469) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (1 month ago)
-- [chore(demo-app): promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/36) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 month ago)
-- [fix(demo-app): fix typo](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/35) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (1 month ago)
+- [chore(docs): add example for checksum/config annotation for auto restarting after configmap changes](https://github.com/kubernetes-sigs/kro/pull/1452) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (4 days ago)
+- [feat(export): --all-versions, flat yaml/json output and colorized tree](https://github.com/FalcoSuessgott/vkv/pull/469) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 months ago)
+- [chore(demo-app): promote to prod](https://github.com/clear-route/platformcon2026-pr-driven-idp/pull/36) on [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) (3 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
