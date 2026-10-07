@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha8](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha8), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha9](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha9), today) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.52.0](https://github.com/patrickchugh/terravision/releases/tag/v0.52.0), 5 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0-rc.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0-rc.0), 2 weeks ago) - kro | Kube Resource Orchestrator
 
