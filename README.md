@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.54.0](https://github.com/patrickchugh/terravision/releases/tag/v0.54.0), today) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha13](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha13), 2 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.54.0](https://github.com/patrickchugh/terravision/releases/tag/v0.54.0), 1 day ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha13](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha13), 3 days ago) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0-rc.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0-rc.0), 3 weeks ago) - kro | Kube Resource Orchestrator
 
 #### 📜 My recent blog posts
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(externalFields): introduce externalFields for per-field ownership handoff](https://github.com/kubernetes-sigs/kro/pull/1468) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (1 week ago)
+- [feat(externalFields): introduce externalFields for per-field ownership handoff](https://github.com/kubernetes-sigs/kro/pull/1468) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (2 weeks ago)
 - [chore(docs): add example for checksum/config annotation for auto restarting after configmap changes](https://github.com/kubernetes-sigs/kro/pull/1452) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (2 weeks ago)
 - [feat(export): --all-versions, flat yaml/json output and colorized tree](https://github.com/FalcoSuessgott/vkv/pull/469) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 months ago)
 
