@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.4.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.4.0), 1 day ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.55.0](https://github.com/patrickchugh/terravision/releases/tag/v0.55.0), 1 day ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
+- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.4.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.4.0), 2 days ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.55.0](https://github.com/patrickchugh/terravision/releases/tag/v0.55.0), 2 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0-rc.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0-rc.0), 3 weeks ago) - kro | Kube Resource Orchestrator
 
 #### 📜 My recent blog posts
