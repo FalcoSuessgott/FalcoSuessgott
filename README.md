@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(externalFields): introduce externalFields for per-field ownership handoff](https://github.com/kubernetes-sigs/kro/pull/1468) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (3 weeks ago)
-- [chore(docs): add example for checksum/config annotation for auto restarting after configmap changes](https://github.com/kubernetes-sigs/kro/pull/1452) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (3 weeks ago)
-- [feat(export): --all-versions, flat yaml/json output and colorized tree](https://github.com/FalcoSuessgott/vkv/pull/469) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 months ago)
+- [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (2 days ago)
+- [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (3 days ago)
+- [feat(observability): domain metrics instrumentation across backend services](https://github.com/runkora/kora/pull/418) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
