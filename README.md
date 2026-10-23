@@ -10,7 +10,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator (3 weeks ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 months ago)
-- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (3 months ago)
+- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.0](https://github.com/patrickchugh/terravision/releases/tag/v0.56.0), 3 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
-- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.4.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.4.0), 6 days ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.0](https://github.com/patrickchugh/terravision/releases/tag/v0.56.0), 4 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
+- [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.4.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.4.0), 1 week ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0-rc.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0-rc.0), 1 month ago) - kro | Kube Resource Orchestrator
 
 #### 📜 My recent blog posts
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [feat(externalFields): introduce externalFields for per-field ownership handoff](https://github.com/kubernetes-sigs/kro/pull/1468) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (2 weeks ago)
+- [feat(externalFields): introduce externalFields for per-field ownership handoff](https://github.com/kubernetes-sigs/kro/pull/1468) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (3 weeks ago)
 - [chore(docs): add example for checksum/config annotation for auto restarting after configmap changes](https://github.com/kubernetes-sigs/kro/pull/1452) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (3 weeks ago)
 - [feat(export): --all-versions, flat yaml/json output and colorized tree](https://github.com/FalcoSuessgott/vkv/pull/469) on [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) (3 months ago)
 
