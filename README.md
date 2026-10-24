@@ -9,7 +9,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator (3 weeks ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (3 months ago)
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 months ago)
 - [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (4 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.0](https://github.com/patrickchugh/terravision/releases/tag/v0.56.0), 4 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.0](https://github.com/patrickchugh/terravision/releases/tag/v0.56.0), 5 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [go-co-op/gocron-ui](https://github.com/go-co-op/gocron-ui) ([v0.4.0](https://github.com/go-co-op/gocron-ui/releases/tag/v0.4.0), 1 week ago) - A lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0-rc.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0-rc.0), 1 month ago) - kro | Kube Resource Orchestrator
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (2 days ago)
-- [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (3 days ago)
+- [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (3 days ago)
+- [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (4 days ago)
 - [feat(observability): domain metrics instrumentation across backend services](https://github.com/runkora/kora/pull/418) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
