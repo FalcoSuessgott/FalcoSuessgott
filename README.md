@@ -8,7 +8,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator (3 weeks ago)
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator (4 weeks ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 months ago)
 - [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (4 months ago)
 
@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (5 days ago)
-- [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (6 days ago)
+- [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (6 days ago)
+- [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (1 week ago)
 - [feat(observability): domain metrics instrumentation across backend services](https://github.com/runkora/kora/pull/418) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
