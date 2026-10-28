@@ -30,8 +30,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (6 days ago)
+- [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (1 week ago)
 - [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (1 week ago)
-- [feat(observability): domain metrics instrumentation across backend services](https://github.com/runkora/kora/pull/418) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
+- [feat(observability): domain metrics instrumentation across backend services](https://github.com/runkora/kora/pull/418) on [runkora/kora](https://github.com/runkora/kora) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
