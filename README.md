@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(charts): regenerate chart READMEs at release and add values section to kora-crds](https://github.com/runkora/kora/pull/906) on [runkora/kora](https://github.com/runkora/kora) (3 days ago)
+- [fix(charts): regenerate chart READMEs at release and add values section to kora-crds](https://github.com/runkora/kora/pull/906) on [runkora/kora](https://github.com/runkora/kora) (4 days ago)
 - [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
 - [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
 
