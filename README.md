@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0), 3 days ago) - kro | Kube Resource Orchestrator
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.1](https://github.com/patrickchugh/terravision/releases/tag/v0.56.1), 1 week ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0), 4 days ago) - kro | Kube Resource Orchestrator
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.1](https://github.com/patrickchugh/terravision/releases/tag/v0.56.1), 2 weeks ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.4.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.4.0), 2 months ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
