@@ -20,8 +20,8 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.2](https://github.com/patrickchugh/terravision/releases/tag/v0.56.2), 1 day ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0), 1 week ago) - kro | Kube Resource Orchestrator
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.1](https://github.com/patrickchugh/terravision/releases/tag/v0.56.1), 2 weeks ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.4.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.4.0), 3 months ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
 #### 📜 My recent blog posts
@@ -32,6 +32,6 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [fix(charts): regenerate chart READMEs at release and add values section to kora-crds](https://github.com/runkora/kora/pull/906) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
 - [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (4 weeks ago)
-- [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (4 weeks ago)
+- [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
