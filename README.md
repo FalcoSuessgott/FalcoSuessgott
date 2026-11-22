@@ -10,7 +10,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator (1 month ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (4 months ago)
-- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (4 months ago)
+- [clear-route/platformcon2026-pr-driven-idp](https://github.com/clear-route/platformcon2026-pr-driven-idp) - Slides &amp; Demos for the Platform2026 London Talk - How we built a PR-driven IDP that developers actually want to use (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.4](https://github.com/patrickchugh/terravision/releases/tag/v0.56.4), 1 day ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.4](https://github.com/patrickchugh/terravision/releases/tag/v0.56.4), 2 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0), 1 week ago) - kro | Kube Resource Orchestrator
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.4.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.4.0), 3 months ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
