@@ -20,7 +20,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.4](https://github.com/patrickchugh/terravision/releases/tag/v0.56.4), 4 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) ([v0.56.4](https://github.com/patrickchugh/terravision/releases/tag/v0.56.4), 5 days ago) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.10.0](https://github.com/kubernetes-sigs/kro/releases/tag/v0.10.0), 2 weeks ago) - kro | Kube Resource Orchestrator
 - [FalcoSuessgott/vault-kubernetes-kms](https://github.com/FalcoSuessgott/vault-kubernetes-kms) ([v1.4.0](https://github.com/FalcoSuessgott/vault-kubernetes-kms/releases/tag/v1.4.0), 3 months ago) - Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider
 
@@ -30,7 +30,7 @@ Im interested in Open Source, Go, Terraform, Packer, Kubernetes, Linux, Ansible,
 
 #### 🔨 My recent Pull Requests
 
-- [fix(charts): regenerate chart READMEs at release and add values section to kora-crds](https://github.com/runkora/kora/pull/906) on [runkora/kora](https://github.com/runkora/kora) (2 weeks ago)
+- [fix(charts): regenerate chart READMEs at release and add values section to kora-crds](https://github.com/runkora/kora/pull/906) on [runkora/kora](https://github.com/runkora/kora) (3 weeks ago)
 - [fix(chart): allow IP-based metrics scrapers on triggers&#39; AuthorizationPolicy](https://github.com/runkora/kora/pull/675) on [runkora/kora](https://github.com/runkora/kora) (1 month ago)
 - [fix(chart): support additionalLabels on Prometheus ServiceMonitor](https://github.com/runkora/kora/pull/650) on [runkora/kora](https://github.com/runkora/kora) (1 month ago)
 
